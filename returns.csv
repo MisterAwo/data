@@ -1,4 +1,13 @@
 returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defective,company,ttNumber,poNumber,invoiceNumber,returnsTracking,notes,items,partNumber,qty,dataNotes
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,L3320 AUTOSPECIAL OE CALIPE   	1,L3320,1.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,KOE6925 OE BRAKE KIT          	2,KOE6925,2.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,KOE6171 STOCK REPLACEMENT BRA 	1,KOE6171,1.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,KOE4665 STOCK REPLACEMENT BRA 	1,KOE4665,1.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,KOE4335 OE BRAKE KIT          	1,KOE4335,1.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,JBR1157EVC EVOLUTION GEOMET CO	1,JBR1157EVC,1.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,EBR1604 AUTOSPECIALTY BRAKE R 	1,EBR1604,1.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,CRK6957 GEOMET COATED BRAKE K 	1,CRK6957,1.0,
+78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,CRK2853 Z17 EVOLUTION GEOMET  	1,CRK2853,1.0,
 76,2023-03-22 14:21:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA76,Small Parcel Returns,,,900001,TT898566,135271217,108147942.0,,,AR8580(2),AR8580(2),2.0,
 75,2023-03-22 14:16:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA75,Small Parcel Returns,,,904090,TT898611,PO_1452463,108169211.0,,,K1043,K1043,1.0,verify qty in [items]
 74,2023-03-22 12:46:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO74,Warranty Replacement,108187977,Yes,902671,TT897901,41676032-39G90V,,,"Cracked Piston
