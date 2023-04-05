@@ -108,19 +108,18 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 231,2023-04-04 12:17:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI231,Small Parcel Returns,,,903910,902839,1030377,,,return,AR85153XL,AR85153XL,1.0,,
 230,2023-04-04 11:33:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI230,Small Parcel Returns,,,900006,902818,,,,return,S6232,S6232,1.0,verify qty in [items],
 229,2023-04-04 11:28:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR229,Warranty Replacement,108224851,Yes,902760,TT902469,1-4806041,,,defect return - leaking rear driver side caliper ,S4824 qty 1,S4824,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K713336 PTV	Disc Brake Kit	1,K713336,1.0,,verify part number
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,Z23832 PTV	Z23 Brake Pads	1,Z23832,1.0,,verify part number
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K15249DK PTV	Disc Brake Kit	1,K15249DK,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,Z26154 PTV	Z26 Brake Pads	2,Z26154,2.0,,verify part number
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,KC546836 PTV	DscBrkPadClpRtrKt	1,KC546836,1.0,,verify part number
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K5392 PTV	DscBrkPadRtr	1,K5392,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K4744 PTV	DscBrkPadRtr	1,K4744,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K4685 PTV	DscBrkPadRtr	1,K4685,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K4400 PTV	DscBrkPadRtr	1,K4400,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K3053 PTV	DscBrkPadRtr	1,K3053,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K2435 PTV	DscBrkPadRtr	1,K2435,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K2445 PTV	DscBrkPadRtr	1,K2445,1.0,,
-228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,Mfg Code	Description	Quantity,MFG,1.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K713336	Disc Brake Kit	1,K713336	DISC,1.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,Z23-832 	Z23 Brake Pads	1,Z23-832,1.0,,
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K15249DK	Disc Brake Kit	1,K15249DK	DISC,1.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,Z26154	2,Z26154	2,2.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,KC546836	DscBrkPadClpRtrKt	1,KC546836	DSCBRKPADCLPRTRKT	1,1.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K5392	DscBrkPadRtr	1,K5392	DSCBRKPADRTR	1,1.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K4744      DscBrkPadRtr	1,K4744,1.0,,
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K4685	DscBrkPadRtr	1,K4685	DSCBRKPADRTR	1,1.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K4400	DscBrkPadRtr	1,K4400	DSCBRKPADRTR	1,1.0,,verify part number
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K3053 	DscBrkPadRtr	1,K3053,1.0,,
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K2435  1,K2435,1.0,,
+228,2023-04-04 11:14:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI228,Bulk Returns,,,903415,902812,500065796,,,return/new,K2445	1,K2445	1,1.0,,verify part number
 227,2023-04-04 10:57:00,Ada Perez - ADP,aperez@powerstop.com,ADP227,Small Parcel Returns,,,900001,902804,136965667,,,,AR8609XL/XR,AR8609XL/XR,1.0,,verify part number
 226,2023-04-04 10:54:00,Ada Perez - ADP,aperez@powerstop.com,ADP226,Small Parcel Returns,,,902670,902803,49026359,,,,KOE7510,KOE7510,1.0,verify qty in [items],
 225,2023-04-04 10:54:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI225,Small Parcel Returns,,,900006,902566,11957423,,,,S5522,S5522,1.0,verify qty in [items],
@@ -271,7 +270,8 @@ Paul Kando
 RETURN TRACK %23771721302055 ",S6278  x1,S6278,1.0,,
 172,2023-03-30 15:14:00,Ada Perez - ADP,aperez@powerstop.com,ADP172,Small Parcel Returns,,,902860,900735,11948377,,,,Z23-914,Z23-914,1.0,verify qty in [items],
 172,2023-03-30 15:14:00,Ada Perez - ADP,aperez@powerstop.com,ADP172,Small Parcel Returns,,,902860,900735,11948377,,,,S2660,S2660,1.0,verify qty in [items],
-172,2023-03-30 15:14:00,Ada Perez - ADP,aperez@powerstop.com,ADP172,Small Parcel Returns,,,902860,900735,11948377,,,,JBR709XL/XR,JBR709XL/XR,1.0,,verify part number
+172,2023-03-30 15:14:00,Ada Perez - ADP,aperez@powerstop.com,ADP172,Small Parcel Returns,,,902860,900735,11948377,,,,JBR709XR,JBR709XR,1.0,,
+172,2023-03-30 15:14:00,Ada Perez - ADP,aperez@powerstop.com,ADP172,Small Parcel Returns,,,902860,900735,11948377,,,,JBR709XL,JBR709XL,1.0,,
 171,2023-03-30 14:31:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA171,Bulk Returns,,,902570,901365,48081,,,AUTO ZONE RGA,Z23-6010 Z23 EVO SPORT BRAKE P	1,Z23-6010,1.0,,
 171,2023-03-30 14:31:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA171,Bulk Returns,,,902570,901365,48081,,,AUTO ZONE RGA,Z23-1855 CBN FIBR/CER BRAKE PA	1,Z23-1855,1.0,,
 171,2023-03-30 14:31:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA171,Bulk Returns,,,902570,901365,48081,,,AUTO ZONE RGA,Z23-1833A POWER STOP - Z23 DAI	1,Z23-1833A,1.0,,
@@ -333,7 +333,8 @@ RETURN TRACK %23771721302055 ",S6278  x1,S6278,1.0,,
 166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,16-2168 Z16 CRMC BRAKE PADS   	UC	1	,16-2168,1.0,,
 166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,16-1871 CERAMIC BRAKE PADS    	UC	1	,16-1871,1.0,,
 166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,16-1663 CERAMIC BRAKE PADS    	UC	2	,16-1663,2.0,,
-165,2023-03-30 09:48:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA165,Small Parcel Returns,,,900001,TT901234,136518750,108194112.0,,,AR821967XPR Z23-1921,AR821967XPR,1.0,verify qty in [items],verify part number
+165,2023-03-30 09:48:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA165,Small Parcel Returns,,,900001,TT901234,136518750,108194112.0,,,Z23-1921,Z23-1921,1.0,verify qty in [items],
+165,2023-03-30 09:48:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA165,Small Parcel Returns,,,900001,TT901234,136518750,108194112.0,,,AR821967XPR ,AR821967XPR,1.0,,verify part number
 164,2023-03-30 09:15:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD164,Warranty Replacement,108210877,Yes,903415,900940,,,,,S5046 (1),S5046,1.0,,
 163,2023-03-30 08:38:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI163,Small Parcel Returns,,,902570,90122,90122,,,return,Z23-1306   QTY 1,Z23-1306,1.0,,
 163,2023-03-30 08:38:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI163,Small Parcel Returns,,,902570,90122,90122,,,return,S2974        QTY 1,S2974,1.0,,
@@ -568,7 +569,7 @@ Return - Incorrect Item Ordered",KOE2317 qty 1,KOE2317,1.0,,
 78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,EBR1604 AUTOSPECIALTY BRAKE R 	1,EBR1604,1.0,,
 78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,CRK6957 GEOMET COATED BRAKE K 	1,CRK6957,1.0,,
 78,2023-03-23 09:35:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI78,Bulk Returns,,,903265,898837,47960,,,return-new,CRK2853 Z17 EVOLUTION GEOMET  	1,CRK2853,1.0,,
-76,2023-03-22 14:21:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA76,Small Parcel Returns,,,900001,TT898566,135271217,108147942.0,,,AR8580(2),AR8580(2),2.0,,verify part number
+76,2023-03-22 14:21:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA76,Small Parcel Returns,,,900001,TT898566,135271217,108147942.0,,,AR8580 2,AR8580,2.0,,
 75,2023-03-22 14:16:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA75,Small Parcel Returns,,,904090,TT898611,PO_1452463,108169211.0,,,K1043,K1043,1.0,verify qty in [items],
 74,2023-03-22 12:46:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO74,Warranty Replacement,108187977,Yes,902671,TT897901,41676032-39G90V,,,"Cracked Piston
 RETURN TRACK %23771630549771 ",S4790  x1,S4790,1.0,,
