@@ -1,4 +1,5 @@
 returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defective,company,ttNumber,poNumber,invoiceNumber,returnsTracking,notes,items,partNumber,qty,dataNotes,partNumberValidity
+243,2023-04-05 08:46:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD243,Warranty Replacement,108224608,Yes,903915,899142,US36442A,108139856.0,,,S5306 (1),S5306,1.0,,
 242,2023-04-04 16:40:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR242,Small Parcel Returns,,,903415,TT902862,115434032,,,DEFECT RETURN - approved by Todd Friedt w/ DIF D2101,S4790 QTY 1,S4790,1.0,,
 242,2023-04-04 16:40:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR242,Small Parcel Returns,,,903415,TT902862,115434032,,,DEFECT RETURN - approved by Todd Friedt w/ DIF D2101,S4752 QTY 1 ,S4752,1.0,,
 241,2023-04-04 16:31:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA241,Warranty Replacement,108214874,Yes,903285,TT897024, 2-96860362  ,,,,S4824,S4824,1.0,verify qty in [items],
