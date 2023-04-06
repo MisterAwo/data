@@ -1,4 +1,30 @@
 returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defective,company,ttNumber,poNumber,invoiceNumber,returnsTracking,notes,items,partNumber,qty,sellPrice,psBoxCount,partNumberValidity,dataNotes
+274,2023-04-06 11:30:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT274,Warranty Replacement,108230031,No,903265,902941,12043716138,,,,S6276 (1),S6276,1.0,0.0,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,Z23-1659 CBN FIBR/CER BRAKE PA	UC	1,Z23-1659,1.0,0.0,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,SW-1708 BRAKE PAD WEAR SENSOR 	UC	1,SW-1708,1.0,27.41,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,SW-0511 BRAKE PAD WEAR SENSOR 	UC	1,SW-0511,1.0,0.0,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,L2661 AUTOSPECIAL OE CALIPE   	UC	1,L2661,1.0,52.05,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,K7844 Z23 DAILY-DRIVER UPGR   	UC	1,K7844,1.0,104.14,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,K6993 Z23 DAILY-DRIVER UPGR   	UC	1,K6993,1.0,335.3,2.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,JBR964EVC EVOLUTION GEOMET COA	UC	2,JBR964EVC,2.0,0.0,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,CRK7505 Z17 EVOLUTION GEOMET  	UC	1,CRK7505,1.0,74.84,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,CRK6503 Z17 EVOLUTION GEOMET  	UC	1,CRK6503,1.0,111.36,1.0,,
+273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,AR82129 AUTOSPECIALTY BRAKE R 	UC	2,AR82129,2.0,107.55,1.0,,
+272,2023-04-06 11:21:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD272,Warranty Replacement,108230030,Yes,902670,901694,35783883-2NYQCT,105402560.0,,,S5044 (1),S5044,1.0,0.0,1.0,,
+271,2023-04-06 10:49:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD271,Warranty Replacement,108229960,Yes,902930,903462,114-5156557-6425002,,,,S4918A (1),S4918A,1.0,192.95,1.0,,
+270,2023-04-06 10:49:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA270,Small Parcel Returns,,,904030,TT903257, 88115016  ,108199018.0,,,ESK5747,ESK5747,1.0,224.49,1.0,,verify qty
+269,2023-04-06 10:24:00,Karina Corona - KCC,KCorona@powerstop.com,KCC269,Small Parcel Returns,,,902670,TT903323,49046044-46MI5W,,,refund only returning  PWR-16-1835 (QTY 1),PWR-16-1835 (QTY 1),PWR-16-1835,1.0,verify price,verify boxes,verify part number,
+268,2023-04-06 10:15:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT268,Warranty Replacement,108229876,Yes,900066,903227,111-4807146-4240267,,,,S2736,S2736,1.0,0.0,1.0,,verify qty
+267,2023-04-06 10:09:00,Patricia Webb - PWE,pwebb@powerstop.com,PWE267,Warranty Replacement,S4752,Yes,902930,902781,114-7550278-2153839,108229854.0,,REAR CALIPERS SEIZED,S4752 -1,S4752,1.0,202.7,1.0,,
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,z23-1453,Z23-1453,1.0,0.0,1.0,,verify qty
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,z23-1452,Z23-1452,1.0,0.0,1.0,,verify qty
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,ebr823xr,EBR823XR,1.0,0.0,verify boxes,,
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,ebr822xl,EBR822XL,1.0,0.0,verify boxes,,
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,ebr1013XPR,EBR1013XPR,1.0,verify price,1.0,,
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,sw-1541,SW-1541,1.0,0.0,1.0,,verify qty
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,sw-1540,SW-1540,1.0,0.0,1.0,,verify qty
+266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,K6050-,K6050-,0.0,verify price,verify boxes,verify part number,
+265,2023-04-06 09:49:00,Ada Perez - ADP,aperez@powerstop.com,ADP265,Small Parcel Returns,,,902870,903497,L432439-005,,,,K6803-36,K6803-36,1.0,verify price,2.0,,verify qty
 264,2023-04-06 09:10:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA264,Small Parcel Returns,,,902670,TT903258, 49030243-46GKCC ,108199548.0,,,Z26-1053 Z26-1298,Z26-1053,1.0,52.16,1.0,,verify qty
 263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,Z36-909 CBN-FIB CER BRAKE PAD 	1,Z36-909,1.0,0.0,1.0,,
 263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,Z23-1363 CBN FIBR/CER BRAKE PA	1,Z23-1363,1.0,0.0,1.0,,
