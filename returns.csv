@@ -1,4 +1,13 @@
 returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defective,company,ttNumber,poNumber,invoiceNumber,returnsTracking,notes,items,partNumber,qty,sellPrice,psBoxCount,partNumberValidity,dataNotes
+338,2023-04-11 11:02:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN338,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,88671770,108230631.0,,ORDERED WRONG,JBR716 ROTORS 2,JBR716,2.0,0.0,1.0,,
+337,2023-04-11 11:00:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN337,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,88082682,108196775.0,,ORDERED WRONG,KOE6740 FRONT/REAR KIT 1,KOE6740,1.0,191.92,1.0,,
+336,2023-04-11 10:59:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN336,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,88426862,108215447.0,,ORDERED WRONG,CRK6321 FRONT KIT 1,CRK6321,1.0,243.06,1.0,,
+335,2023-04-11 10:57:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN335,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,88413365,108214857.0,,NO LONGER NEEDED,K15134DK FRONT/REAR KIT 1,K15134DK,1.0,301.53,2.0,,
+334,2023-04-11 10:54:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN334,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,87213721,108144651.0,,INACCURATE WEB DESCRIPTION,CRK6885 FRONT/REAR KIT 1,CRK6885,1.0,451.76,3.0,,
+333,2023-04-11 10:52:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN333,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,88632054,108228405.0,,DID NOT RECEIVE ALL 4 ROTORS JUST 1 FOR FRONT AND 1 FOR REAR,EBR808XPE REAR ROTORS 1,EBR808XPE,1.0,verify price,verify boxes,verify part number,
+333,2023-04-11 10:52:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN333,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,88632054,108228405.0,,DID NOT RECEIVE ALL 4 ROTORS JUST 1 FOR FRONT AND 1 FOR REAR,EBR1243XPR FRONT ROTORS 1,EBR1243XPR,1.0,242.21,1.0,,
+332,2023-04-11 10:09:00,Karina Corona - KCC,KCorona@powerstop.com,KCC332,Small Parcel Returns,,,902670,TT904858,49032777-46HMS2,,,,QTY 1: PWR-Z23-2043,QTY,1.0,verify price,verify boxes,verify part number,verify qty
+331,2023-04-11 10:00:00,Karina Corona - KCC,KCorona@powerstop.com,KCC331,Small Parcel Returns,,,903265,TT904790,91156735,,,Only returning front rotors for a refund. JBR975EVC (2),JBR975EVC (2),JBR975EVC,2.0,46.43,1.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,Z36-2201 Z36 TRUCK & TOW CARBO	UC	1,Z36-2201,1.0,60.02,1.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,Z36-1589 CBN-FIB CER BRAKE PAD	UC	1,Z36-1589,1.0,41.2,1.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,SW-1205 BRAKE PAD WEAR SENSOR 	UC	1,SW-1205,1.0,9.6,1.0,,
@@ -213,7 +222,6 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 275,2023-04-06 12:05:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI275,Bulk Returns,,,903415,903499,500051193,,,return,1	DscBrkPadRtr 1 PC PW 1 PC PWRS	K1363,1	DSCBRKPADRTR,1.0,verify price,verify boxes,verify part number,verify qty
 275,2023-04-06 12:05:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI275,Bulk Returns,,,903415,903499,500051193,,,return,1	DscBrkPadRtr 1 PC PW 1 PC PWRS	K1038-26,1	DSCBRKPADRTR,1.0,verify price,verify boxes,verify part number,verify qty
 275,2023-04-06 12:05:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI275,Bulk Returns,,,903415,903499,500051193,,,return,1	DscBrkPadRtr 1 PC PW 1 PC PWRS	K1239,1	DSCBRKPADRTR,1.0,verify price,verify boxes,verify part number,verify qty
-275,2023-04-06 12:05:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI275,Bulk Returns,,,903415,903499,500051193,,,return,QTY	DESC	MODELXREF,QTY	DESC	MODELXREF,1.0,verify price,verify boxes,verify part number,
 274,2023-04-06 11:30:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT274,Warranty Replacement,108230031,No,903265,902941,12043716138,,,,S6276 (1),S6276,1.0,0.0,1.0,,
 273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,Z23-1659 CBN FIBR/CER BRAKE PA	UC	1,Z23-1659,1.0,0.0,1.0,,
 273,2023-04-06 11:24:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO273,Small Parcel Returns,,,903265,TT903529,092859,,,not needed,SW-1708 BRAKE PAD WEAR SENSOR 	UC	1,SW-1708,1.0,27.41,1.0,,
