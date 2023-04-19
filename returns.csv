@@ -1,4 +1,15 @@
 returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defective,company,ttNumber,poNumber,invoiceNumber,returnsTracking,notes,items,partNumber,qty,sellPrice,psBoxCount,partNumberValidity,dataNotes
+479,2023-04-19 11:08:00,Ada Perez - ADP,aperez@powerstop.com,ADP479,Warranty Replacement,108265525,Yes,903285,908116,111-8504409-8012208,,,,S4920,S4920,1.0,0.0,1.0,,verify qty
+478,2023-04-19 10:37:00,Ada Perez - ADP,aperez@powerstop.com,ADP478,Small Parcel Returns,,,902860,908194,11906450,,,,AR83069 (2),AR83069,2.0,0.0,1.0,,
+477,2023-04-19 10:26:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT477,Small Parcel Returns,,,903910,TT908425,990872,,,,AR8768XPR,AR8768XPR,1.0,88.05,1.0,,
+476,2023-04-19 10:17:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI476,Small Parcel Returns,,,903910,908434,1004631,,,return,AR8772xpr QTY 1,AR8772XPR,1.0,222.55,1.0,,
+475,2023-04-19 09:54:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD475,Small Parcel Returns,,,904090,907878,PO_1454135,108174433.0,,"RETURNING FOR PARTIAL CREDIT ONLY, REAR PARTS OF KC6268-36 ",Z36-1602 (2),Z36-1602,2.0,0.0,1.0,,
+475,2023-04-19 09:54:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD475,Small Parcel Returns,,,904090,907878,PO_1454135,108174433.0,,"RETURNING FOR PARTIAL CREDIT ONLY, REAR PARTS OF KC6268-36 ",S5396 (1),S5396,1.0,0.0,1.0,,
+475,2023-04-19 09:54:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD475,Small Parcel Returns,,,904090,907878,PO_1454135,108174433.0,,"RETURNING FOR PARTIAL CREDIT ONLY, REAR PARTS OF KC6268-36 ",AR85108XPR (1),AR85108XPR,1.0,verify price,1.0,,
+474,2023-04-19 09:39:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD474,Warranty Replacement,108260766,Yes,903265,907767,91391249,105237286.0,,,S2726 (1),S2726,1.0,0.0,1.0,,
+473,2023-04-19 09:26:00,Ada Perez - ADP,aperez@powerstop.com,ADP473,Small Parcel Returns,,,902860,908306,11985439,,,,K2560-26,K2560-26,1.0,256.8,1.0,,verify qty
+472,2023-04-19 08:54:00,Christina Johnson - CMJ,CJohnson@powerstop.com,CMJ472,Small Parcel Returns,,,904090,TT907655,po_1460395,108201946.0,,doesn't want doesn't fit,k4603-26,K4603-26,1.0,251.01,1.0,,verify qty
+471,2023-04-19 08:28:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD471,Small Parcel Returns,,,902930,907674,G704XVPHV,108245008.0,,"NOT FOR CREDIT, CORRECT ROTOR SENT TO CUSTOMER ON 108260150",EBR1056 (1),EBR1056,1.0,0.0,1.0,,
 470,2023-04-18 16:56:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO470,Small Parcel Returns,,,900001,TT908086,137718795,108239897.0,,not a fit,17-1860 x1,17-1860,1.0,0.0,1.0,,
 469,2023-04-18 16:19:00,Ada Perez - ADP,aperez@powerstop.com,ADP469,Small Parcel Returns,,,902860,908236,11987969,,,,K6560,K6560,1.0,417.94,2.0,,verify qty
 468,2023-04-18 16:16:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT468,Small Parcel Returns,,,903915,TT907424,US38716A,,,,S6394,S6394,1.0,181.57,1.0,,verify qty
@@ -164,7 +175,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,Z26-1807 CBN-FIB CER BRAKE PAD	UC	1,Z26-1807,1.0,43.84,1.0,,
 401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,Z26-1440 Z26 STREET WARRIOR CA	UC	1,Z26-1440,1.0,43.2,1.0,,
 401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,Z23-1868 Z23 EVOLUTION SPORT B	UC	1,Z23-1868,1.0,52.64,1.0,,
-401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,Z23-1761 CBN FIBR/CER BRAKE PA	UC	1,Z23-1761,1.0,39.59,1.0,,
+401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,Z23-1761 CBN FIBR/CER BRAKE PA	UC	1,Z23-1761,1.0,0.0,1.0,,
 401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,Z23-1001 CBN FIBR/CER BRAKE PA	UC	1,Z23-1001,1.0,0.0,1.0,,
 401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,SW-1300 BRAKE PAD WEAR SENSOR 	UC	2,SW-1300,2.0,9.96,1.0,,
 401,2023-04-14 16:49:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR401,Bulk Returns,,,903265,TT906883,037261,,,New Bulk Return,S3218 RED BRAKE CALIPER PAI   	UC	1,S3218,1.0,213.69,1.0,,
@@ -334,7 +345,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 360,2023-04-12 13:39:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO360,Small Parcel Returns,,,900720,TT903599,1451944-1517378,108204256.0,,not wanted,AR82159XPR x1,AR82159XPR,1.0,verify price,1.0,,
 359,2023-04-12 13:24:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR359,Small Parcel Returns,,,903285,TT894468,203367520,108152953.0,,new return - cx was sent pads but received one rotor and no pads in his original reship order.  He is returning the rotor received and no credit is needed. ,AR8596XL x1,AR8596XL,1.0,0.0,verify boxes,,
 358,2023-04-12 13:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI358,Bulk Returns,,,903265,905483,93377,,,return,Z26-1718 CBN-FIB CER BRAKE PAD	1,Z26-1718,1.0,0.0,1.0,,
-358,2023-04-12 13:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI358,Bulk Returns,,,903265,905483,93377,,,return,Z26-1405 CBN-FIB CER BRAKE PAD	1,Z26-1405,1.0,61.67,1.0,,
+358,2023-04-12 13:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI358,Bulk Returns,,,903265,905483,93377,,,return,Z26-1405 CBN-FIB CER BRAKE PAD	1,Z26-1405,1.0,0.0,1.0,,
 358,2023-04-12 13:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI358,Bulk Returns,,,903265,905483,93377,,,return,Z23-2135 Z23 EVOLUTION SPORT B	1,Z23-2135,1.0,24.61,1.0,,
 358,2023-04-12 13:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI358,Bulk Returns,,,903265,905483,93377,,,return,Z23-1718 CBN FIBR/CER BRAKE PA	1,Z23-1718,1.0,29.05,1.0,,
 358,2023-04-12 13:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI358,Bulk Returns,,,903265,905483,93377,,,return,Z23-1474A CBN FIBR/CER BRAKE P	1,Z23-1474A,1.0,0.0,1.0,,
@@ -473,7 +484,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 331,2023-04-11 10:00:00,Karina Corona - KCC,KCorona@powerstop.com,KCC331,Small Parcel Returns,,,903265,TT904790,91156735,,,Only returning front rotors for a refund. JBR975EVC (2),JBR975EVC (2),JBR975EVC,2.0,46.43,1.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,Z36-2201 Z36 TRUCK & TOW CARBO	UC	1,Z36-2201,1.0,60.02,1.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,Z36-1589 CBN-FIB CER BRAKE PAD	UC	1,Z36-1589,1.0,41.2,1.0,,
-330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,SW-1205 BRAKE PAD WEAR SENSOR 	UC	1,SW-1205,1.0,9.6,1.0,,
+330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,SW-1205 BRAKE PAD WEAR SENSOR 	UC	1,SW-1205,1.0,0.0,1.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,SW-0324 BRAKE PAD WEAR SENSOR 	UC	1,SW-0324,1.0,29.58,1.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,KOE7938 OE BRAKE KIT          	UC	1,KOE7938,1.0,264.66,2.0,,
 330,2023-04-11 09:51:00,Christina Wilson - CMA,cwilson@powerstop.com,CMA330,Bulk Returns,,,903265,TT904046,93270,,,,KOE7505 OE BRAKE KIT          	UC	2,KOE7505,2.0,67.59,1.0,,
@@ -629,8 +640,8 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 284,2023-04-06 15:56:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR284,Warranty Replacement,108230663,Yes,900001,TT903657,CPZ371716699,,,defect return - seized front pass side caliper ,S5044 qty 1,S5044,1.0,155.62,1.0,,
 283,2023-04-06 15:07:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA283,Small Parcel Returns,,,902860,TT903487,11965772 ,108182286.0,,,K5816,K5816,1.0,307.18,1.0,,verify qty
 282,2023-04-06 14:49:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA282,Small Parcel Returns,,,902670,TT903634,49038427-46JPVR  ,108212377.0,,,EBR1442XPR x2,EBR1442XPR,2.0,126.24,1.0,,
-281,2023-04-06 14:36:00,Christina Johnson - CMJ,CJohnson@powerstop.com,CMJ281,Small Parcel Returns,,,902860,903436,11971135,108197844.0,,ordered incorrectly,koe8345,KOE8345,1.0,177.77,1.0,,verify qty
 281,2023-04-06 14:36:00,Christina Johnson - CMJ,CJohnson@powerstop.com,CMJ281,Small Parcel Returns,,,902860,903436,11971135,108197844.0,,ordered incorrectly,koe8345 (1),KOE8345,1.0,177.77,1.0,,
+281,2023-04-06 14:36:00,Christina Johnson - CMJ,CJohnson@powerstop.com,CMJ281,Small Parcel Returns,,,902860,903436,11971135,108197844.0,,ordered incorrectly,koe8345,KOE8345,1.0,177.77,1.0,,verify qty
 280,2023-04-06 14:21:00,Patricia Webb - PWE,pwebb@powerstop.com,PWE280,Warranty Replacement,S5044,Yes,902930,902121,111-1863356-7789021,108230440.0,,BOTH CALIPERS ARE STICKING,S5044 - 1,S5044,1.0,0.0,1.0,,
 279,2023-04-06 13:16:00,Patricia Webb - PWE,pwebb@powerstop.com,PWE279,Warranty Replacement,L4764,Yes,902930,902330,111-1125677-7362645,108220985.0,,SEIZED CALIPER DAMAGED PADS,L4764,L4764,1.0,0.0,1.0,,verify qty
 278,2023-04-06 13:05:00,Karina Corona - KCC,KCorona@powerstop.com,KCC278,Warranty Replacement,S5046 ,Yes,903285,TT902741,23-30231129,,,please not this is not a refund only returning defective calipers ,s5046,S5046,1.0,0.0,1.0,,verify qty
@@ -700,7 +711,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 271,2023-04-06 10:49:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD271,Warranty Replacement,108229960,Yes,902930,903462,114-5156557-6425002,,,,S4918A (1),S4918A,1.0,192.95,1.0,,
 270,2023-04-06 10:49:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA270,Small Parcel Returns,,,904030,TT903257, 88115016  ,108199018.0,,,ESK5747,ESK5747,1.0,224.49,1.0,,verify qty
 269,2023-04-06 10:24:00,Karina Corona - KCC,KCorona@powerstop.com,KCC269,Small Parcel Returns,,,902670,TT903323,49046044-46MI5W,,,refund only returning  PWR-16-1835 (QTY 1),16-1835 x1,16-1835,1.0,30.74,1.0,,
-268,2023-04-06 10:15:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT268,Warranty Replacement,108229876,Yes,900066,903227,111-4807146-4240267,,,,S2736,S2736,1.0,183.95,1.0,,verify qty
+268,2023-04-06 10:15:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT268,Warranty Replacement,108229876,Yes,900066,903227,111-4807146-4240267,,,,S2736,S2736,1.0,0.0,1.0,,verify qty
 267,2023-04-06 10:09:00,Patricia Webb - PWE,pwebb@powerstop.com,PWE267,Warranty Replacement,S4752,Yes,902930,902781,114-7550278-2153839,108229854.0,,REAR CALIPERS SEIZED,S4752 -1,S4752,1.0,0.0,1.0,,
 266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,z23-1453,Z23-1453,1.0,0.0,1.0,,verify qty
 266,2023-04-06 10:02:00,Karina Corona - KCC,KCorona@powerstop.com,KCC266,Small Parcel Returns,,,900720,TT903302,1438156-1502800,,,refund only for k6050,z23-1452,Z23-1452,1.0,0.0,1.0,,verify qty
@@ -713,7 +724,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 265,2023-04-06 09:49:00,Ada Perez - ADP,aperez@powerstop.com,ADP265,Small Parcel Returns,,,902870,903497,L432439-005,,,,K6803-36,K6803-36,1.0,verify price,2.0,,verify qty
 264,2023-04-06 09:10:00,Tiffany Caston - TCA,tcaston@powerstop.com,TCA264,Small Parcel Returns,,,902670,TT903258, 49030243-46GKCC ,108199548.0,,,Z26-1053 Z26-1298,Z26-1053,1.0,52.16,1.0,,verify qty
 263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,Z36-909 CBN-FIB CER BRAKE PAD 	1,Z36-909,1.0,0.0,1.0,,
-263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,Z23-1363 CBN FIBR/CER BRAKE PA	1,Z23-1363,1.0,0.0,1.0,,
+263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,Z23-1363 CBN FIBR/CER BRAKE PA	1,Z23-1363,1.0,46.98,1.0,,
 263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,SW-0510 BRAKE PAD WEAR SENSOR 	1,SW-0510,1.0,0.0,1.0,,
 263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,KOE8053 BRAKE KIT             	1,KOE8053,1.0,314.82,2.0,,
 263,2023-04-06 08:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI263,Bulk Returns,,,903265,903439,76303,,,return,KOE6268 OE BRAKE KIT          	1,KOE6268,1.0,310.86,2.0,,
@@ -740,7 +751,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,K6992-36 Z36 TRUCK AND TOW PER	1,K6992-36,1.0,677.4,4.0,,
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,K6713 DSCBRKPADRTR            	1,K6713,1.0,215.68,1.0,,
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,K2560-26 Z26 1-CLICK BRAKE KIT	1,K2560-26,1.0,239.25,1.0,,
-262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,JBR1778 AUTOSPECIALTY BRAKE R 	1,JBR1778,1.0,26.35,1.0,,
+262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,JBR1778 AUTOSPECIALTY BRAKE R 	1,JBR1778,1.0,0.0,1.0,,
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,JBR1569 AUTOSPECIALTY BRAKE R 	1,JBR1569,1.0,0.0,1.0,,
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,JBR1568 AUTOSPECIALTY BRAKE R 	1,JBR1568,1.0,0.0,1.0,,
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,CRK2853 Z17 EVOLUTION GEOMET  	1,CRK2853,1.0,258.69,2.0,,
@@ -749,7 +760,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,AR83078EVC EVOLUTIONGEOMET COA	1,AR83078EVC,1.0,0.0,1.0,,
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,16-230 CERAMIC BRAKE PADS     	1,16-230,1.0,21.05,1.0,,
 262,2023-04-06 08:25:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI262,Bulk Returns,,,903265,903454,31565,,,return,16-1005 CERAMIC BRAKE PADS    	1,16-1005,1.0,22.14,1.0,,
-261,2023-04-05 15:57:00,Karina Corona - KCC,KCorona@powerstop.com,KCC261,Small Parcel Returns,,,900066,	 TT902992,112-8023092-7207419,,,Please note this is not a refund customer is only returning defective calipers.,S4299,S4299,1.0,0.0,1.0,,verify qty
+261,2023-04-05 15:57:00,Karina Corona - KCC,KCorona@powerstop.com,KCC261,Small Parcel Returns,,,900066,	 TT902992,112-8023092-7207419,,,Please note this is not a refund customer is only returning defective calipers.,S4299,S4299,1.0,117.88,1.0,,verify qty
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,Z36-225 CBN-FIB CER BRAKE PAD 	1,Z36-225,1.0,71.89,1.0,,
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,Z23-2118 Z23 EVOLUTION SPORT B	1,Z23-2118,1.0,37.56,1.0,,
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,Z23-2117 Z23 EVO SPORT BRAKE P	1,Z23-2117,1.0,36.09,1.0,,
@@ -773,7 +784,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,CRK6543 Z17 EVOLUTION GEOMET  	1,CRK6543,1.0,75.18,1.0,,
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,CRK5260 Z17 EVOLUTION GEOMET  	1,CRK5260,1.0,90.61,1.0,,
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,CRK2450 GEOMET COATED BRAKE K 	1,CRK2450,1.0,73.18,1.0,,
-260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,B747L DRUM BRAKE SHOE         	2,B747L,2.0,0.0,1.0,,
+260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,B747L DRUM BRAKE SHOE         	2,B747L,2.0,15.07,1.0,,
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,AR8288 AUTOSPECIALTY BRAKE R  	1,AR8288,1.0,0.0,1.0,,
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,16-356 CERAMIC BRAKE PADS     	1,16-356,1.0,23.83,1.0,,
 260,2023-04-05 15:28:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI260,Bulk Returns,,,903265,903275,30847,,,return,16-325 CERAMIC BRAKE PADS     	1,16-325,1.0,0.0,1.0,,
@@ -792,7 +803,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 252,2023-04-05 12:27:00,Karina Corona - KCC,KCorona@powerstop.com,KCC252,Small Parcel Returns,,,900003,TT903176,23610430,,,please note -this is not for a refund only returning defective calipers back,S2574,S2574,1.0,verify price,1.0,,verify qty
 251,2023-04-05 12:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI251,Bulk Returns,,,903265,903203,92766,,,return,Z23-980 CBN FIBR/CER BRAKE PA 	1,Z23-980,1.0,42.46,1.0,,
 251,2023-04-05 12:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI251,Bulk Returns,,,903265,903203,92766,,,return,Z23-1003 CBN FIBR/CER BRAKE PA	1,Z23-1003,1.0,52.39,1.0,,
-251,2023-04-05 12:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI251,Bulk Returns,,,903265,903203,92766,,,return,SW-0491 BRAKE PAD WEAR SENSOR 	1,SW-0491,1.0,0.0,1.0,,
+251,2023-04-05 12:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI251,Bulk Returns,,,903265,903203,92766,,,return,SW-0491 BRAKE PAD WEAR SENSOR 	1,SW-0491,1.0,8.13,1.0,,
 251,2023-04-05 12:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI251,Bulk Returns,,,903265,903203,92766,,,return,SW-0323 BRAKE PAD WEAR SENSOR 	1,SW-0323,1.0,0.0,1.0,,
 251,2023-04-05 12:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI251,Bulk Returns,,,903265,903203,92766,,,return,L3337 AUTOSPECIALTY STOCK R   	1,L3337,1.0,110.01,1.0,,
 251,2023-04-05 12:11:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI251,Bulk Returns,,,903265,903203,92766,,,return,KOE044 OE BRAKE KIT           	1,KOE044,1.0,101.33,1.0,,
@@ -833,7 +844,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,SW-1685 BRAKE PAD WEAR SENSOR 	1,SW-1685,1.0,19.76,1.0,,
 244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,SW-1660 PAD WEAR SENSOR       	1,SW-1660,1.0,16.99,1.0,,
 244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,SW-1206 BRAKE PAD WEAR SENSOR 	2,SW-1206,2.0,9.17,1.0,,
-244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,SW-1205 BRAKE PAD WEAR SENSOR 	2,SW-1205,2.0,9.6,1.0,,
+244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,SW-1205 BRAKE PAD WEAR SENSOR 	2,SW-1205,2.0,0.0,1.0,,
 244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,SW-0510 BRAKE PAD WEAR SENSOR 	2,SW-0510,2.0,0.0,1.0,,
 244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,S4604 DSCBRKCLP               	1,S4604,1.0,0.0,1.0,,
 244,2023-04-05 09:04:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI244,Bulk Returns,,,903265,903133,30361,,,return,KOE8488 OE BRAKE KIT          	1,KOE8488,1.0,79.78,1.0,,
@@ -881,7 +892,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,Z23-273 CBN FIBR/CER BRAKE PA 	1,Z23-273,1.0,0.0,1.0,,
 238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,Z23-1728 CBN FIBR/CER BRAKE PA	1,Z23-1728,1.0,0.0,1.0,,
 238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,SW-1656 BRAKE PAD WEAR SENSOR 	1,SW-1656,1.0,0.0,1.0,,
-238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,SW-0491 BRAKE PAD WEAR SENSOR 	1,SW-0491,1.0,0.0,1.0,,
+238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,SW-0491 BRAKE PAD WEAR SENSOR 	1,SW-0491,1.0,8.13,1.0,,
 238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,S4728 DSCBRKCLP               	3,S4728,3.0,0.0,1.0,,
 238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,KOE8068 STOCK REPLACEMENT BRA 	1,KOE8068,1.0,61.14,1.0,,
 238,2023-04-04 15:26:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI238,Bulk Returns,,,903265,902920,48171,,,return,KC1381-26 Z26 BRAKE KIT W/CALI	1,KC1381-26,1.0,711.06,2.0,,
@@ -927,7 +938,7 @@ returnID,entryDate,rep,repEmail,rgaNumber,replacementType,replacementNumber,defe
 234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,Z23-1561 CBN FIBR/CER BRAKE PA	1,Z23-1561,1.0,0.0,1.0,,
 234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,Z23-1084 CBN FIBR/CER BRAKE PA	1,Z23-1084,1.0,0.0,1.0,,
 234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,SW-1641 BRAKE PAD WEAR SENSOR 	1,SW-1641,1.0,21.52,1.0,,
-234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,SW-0495 BRAKE PAD WEAR SENSOR 	1,SW-0495,1.0,0.0,1.0,,
+234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,SW-0495 BRAKE PAD WEAR SENSOR 	1,SW-0495,1.0,11.48,1.0,,
 234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,SW-0461 BRAKE PAD WEAR SENSOR 	1,SW-0461,1.0,0.0,1.0,,
 234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,SW-0457 BRAKE PAD WEAR SENSOR 	1,SW-0457,1.0,0.0,1.0,,
 234,2023-04-04 13:34:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI234,Bulk Returns,,,903265,902871,04454,,,return,SW-0456 BRAKE PAD WEAR SENSOR 	1,SW-0456,1.0,0.0,1.0,,
@@ -1124,7 +1135,7 @@ Paul Kando
 174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,Z23-1850 Z23 EVO SPORT BRAKE P	1,Z23-1850,1.0,39.63,1.0,,
 174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,SW-0494 BRAKE PAD WEAR SENSOR 	1,SW-0494,1.0,15.5,1.0,,
 174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,SW-0493 BRAKE PAD WEAR SENSOR 	1,SW-0493,1.0,15.5,1.0,,
-174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,SW-0309 BRAKE PAD WEAR SENSOR 	1,SW-0309,1.0,6.78,1.0,,
+174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,SW-0309 BRAKE PAD WEAR SENSOR 	1,SW-0309,1.0,0.0,1.0,,
 174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,L4993 AUTOSPECIAL OE CALIPE   	1,L4993,1.0,58.38,1.0,,
 174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,L4992 AUTOSPECIAL OE CALIPE   	1,L4992,1.0,58.38,1.0,,
 174,2023-03-31 09:55:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI174,Bulk Returns,,,903265,901610,31420,,,return/new,L2793A AUTOSPECIAL OE CALIPE  	1,L2793A,1.0,0.0,1.0,,
@@ -1180,7 +1191,7 @@ RETURN TRACK %23771721302055 ",S6278  x1,S6278,1.0,226.77,1.0,,
 167,2023-03-30 11:34:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR167,Bulk Returns,,,903265,TT901316,092461,,,New Return ,JBR1150 AUTOSPECIALTY BRAKE R 	UC	1,JBR1150,1.0,49.89,1.0,,
 167,2023-03-30 11:34:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR167,Bulk Returns,,,903265,TT901316,092461,,,New Return ,16-1633 CERAMIC BRAKE PADS    	UC	1,16-1633,1.0,30.73,1.0,,
 166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,Z26-623 CBN-FIB CER BRAKE PAD 	UC	1,Z26-623,1.0,0.0,1.0,,
-166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,Z26-1405 CBN-FIB CER BRAKE PAD	UC	1	,Z26-1405,1.0,61.67,1.0,,
+166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,Z26-1405 CBN-FIB CER BRAKE PAD	UC	1	,Z26-1405,1.0,0.0,1.0,,
 166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,Z23-1386 CBN FIBR/CER BRAKE PA	UC	1	,Z23-1386,1.0,0.0,1.0,,
 166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,SW-1661 PAD WEAR SENSOR       	UC	1	,SW-1661,1.0,16.99,1.0,,
 166,2023-03-30 09:58:00,Ada Perez - ADP,aperez@powerstop.com,ADP166,Bulk Returns,,,903265,901282,,,,NEW RETURNS,KOE7897 OE BRAKE KIT          	UC	1	,KOE7897,1.0,73.18,1.0,,
@@ -1300,7 +1311,7 @@ RETURN TRACK %23771682585295 ",AR8557XPR  x1,AR8557XPR,1.0,77.48,1.0,,
 121,2023-03-27 14:37:00,Judy Dunk - JUD,JDunk@powerstop.com,JUD121,Warranty Replacement,AR8571XL,No,902930,900340,,,,,AR8642XL,AR8642XL,1.0,0.0,verify boxes,,
 120,2023-03-27 14:29:00,Ada Perez - ADP,aperez@powerstop.com,ADP120,Small Parcel Returns,,,902860,899579,11936809,,,,K5952,K5952,1.0,453.08,2.0,,verify qty
 119,2023-03-27 12:34:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT119,Small Parcel Returns,,,900710,TT900195,994410-1,108201654.0,,,Z36-1589 (1),Z36-1589,1.0,0.0,1.0,,
-119,2023-03-27 12:34:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT119,Small Parcel Returns,,,900710,TT900195,994410-1,108201654.0,,,EBR1653EVC  (1),EBR1653EVC,1.0,0.0,1.0,,
+119,2023-03-27 12:34:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT119,Small Parcel Returns,,,900710,TT900195,994410-1,108201654.0,,,EBR1653EVC  (1),EBR1653EVC,1.0,65.9,1.0,,
 118,2023-03-27 12:28:00,Karina Corona - KCC,KCorona@powerstop.com,KCC118,Small Parcel Returns,,,108138727,TT900201,_1444071,108138727.0,,,z26-465 (1),Z26-465,1.0,verify price,1.0,,
 118,2023-03-27 12:28:00,Karina Corona - KCC,KCorona@powerstop.com,KCC118,Small Parcel Returns,,,108138727,TT900201,_1444071,108138727.0,,,JBR962XPR (1),JBR962XPR,1.0,verify price,1.0,,
 118,2023-03-27 12:28:00,Karina Corona - KCC,KCorona@powerstop.com,KCC118,Small Parcel Returns,,,108138727,TT900201,_1444071,108138727.0,,,K2384-26,K2384-26,1.0,verify price,1.0,,verify qty
@@ -1344,7 +1355,7 @@ RETURN TRACK %23771682585295 ",AR8557XPR  x1,AR8557XPR,1.0,77.48,1.0,,
 107,2023-03-27 10:43:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI107,Small Parcel Returns,,,902671,900029,49022149-46DKHZ,,,return/new,17-1711 qty 1,17-1711,1.0,verify price,1.0,,
 106,2023-03-27 09:32:00,Pedro Galvez - PGA,pgalvez@powerstop.com,PGA106,Warranty Replacement,S5044EB,Yes,903285,897223,41087899,108201121.0,,front caliper sticking again ,S5044EB,S5044EB,1.0,0.0,verify boxes,,
 105,2023-03-27 08:27:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI105,Bulk Returns,,,903265,900155,31234,,,return/new,SW-1656 BRAKE PAD WEAR SENSOR 	3,SW-1656,3.0,0.0,1.0,,
-105,2023-03-27 08:27:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI105,Bulk Returns,,,903265,900155,31234,,,return/new,SW-0505 BRAKE PAD WEAR SENSOR 	1,SW-0505,1.0,0.0,1.0,,
+105,2023-03-27 08:27:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI105,Bulk Returns,,,903265,900155,31234,,,return/new,SW-0505 BRAKE PAD WEAR SENSOR 	1,SW-0505,1.0,3.33,1.0,,
 105,2023-03-27 08:27:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI105,Bulk Returns,,,903265,900155,31234,,,return/new,SW-0461 BRAKE PAD WEAR SENSOR 	1,SW-0461,1.0,0.0,1.0,,
 105,2023-03-27 08:27:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI105,Bulk Returns,,,903265,900155,31234,,,return/new,S3858 RED BRAKE CALIPER PAI   	1,S3858,1.0,332.79,1.0,,
 105,2023-03-27 08:27:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI105,Bulk Returns,,,903265,900155,31234,,,return/new,KOE8008 BRAKE KIT             	1,KOE8008,1.0,171.15,1.0,,
@@ -1449,7 +1460,7 @@ RETURN TRACK %23771630549771 ",S4790  x1,S4790,1.0,verify price,1.0,,
 73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,Z23-1808 CBN FIBR/CER BRAKE PA	UC	1,Z23-1808,1.0,0.0,1.0,,
 73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,Z23-1078 CBN FIBR/CER BRAKE PA	UC	1,Z23-1078,1.0,0.0,1.0,,
 73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,SW-1480 BRAKE PAD WEAR SENSOR 	UC	1,SW-1480,1.0,0.0,1.0,,
-73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,SW-0491 BRAKE PAD WEAR SENSOR 	UC	1,SW-0491,1.0,0.0,1.0,,
+73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,SW-0491 BRAKE PAD WEAR SENSOR 	UC	1,SW-0491,1.0,8.13,1.0,,
 73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,KOE5934 OE BRAKE KIT          	UC	1,KOE5934,1.0,146.91,1.0,,
 73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,KOE5368 OE BRAKE KIT          	UC	1,KOE5368,1.0,67.35,1.0,,
 73,2023-03-22 12:45:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR73,Bulk Returns,,,903265,TT898590,052094,,,Autozone New Return ,KOE4736 OE BRAKE KIT          	UC	1,KOE4736,1.0,56.12,1.0,,
@@ -1486,7 +1497,7 @@ RETURN TRACK %23771630549771 ",S4790  x1,S4790,1.0,verify price,1.0,,
 72,2023-03-22 12:18:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO72,Small Parcel Returns,,,903180,TT895045,30020931,,,ORDER ERROR,AR8609XPR  x1,AR8609XPR,1.0,119.75,1.0,,
 71,2023-03-22 11:47:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI71,Bulk Returns,,,903265,898571,47907,,,return,SW-1667 BRAKE PAD WEAR SENSOR 	2,SW-1667,2.0,29.51,1.0,,
 71,2023-03-22 11:47:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI71,Bulk Returns,,,903265,898571,47907,,,return,SW-1641 BRAKE PAD WEAR SENSOR 	1,SW-1641,1.0,21.52,1.0,,
-71,2023-03-22 11:47:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI71,Bulk Returns,,,903265,898571,47907,,,return,SW-1205 BRAKE PAD WEAR SENSOR 	1,SW-1205,1.0,9.6,1.0,,
+71,2023-03-22 11:47:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI71,Bulk Returns,,,903265,898571,47907,,,return,SW-1205 BRAKE PAD WEAR SENSOR 	1,SW-1205,1.0,0.0,1.0,,
 71,2023-03-22 11:47:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI71,Bulk Returns,,,903265,898571,47907,,,return,L5054 AUTOSPECIAL OE CALIPE   	1,L5054,1.0,0.0,1.0,,
 71,2023-03-22 11:47:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI71,Bulk Returns,,,903265,898571,47907,,,return,KOE7750 OE BRAKE KIT          	1,KOE7750,1.0,88.66,1.0,,
 71,2023-03-22 11:47:00,Carmella Tirrito - CTI,ctirrito@powerstop.com,CTI71,Bulk Returns,,,903265,898571,47907,,,return,KOE6761 STOCK REPLACEMENT BRA 	1,KOE6761,1.0,74.24,1.0,,
@@ -1637,7 +1648,7 @@ RETURN TRACK %23771613227206 ",S15044  x1,S15044,1.0,580.79,1.0,,
 50,2023-03-20 16:39:00,Janet Trinidad - JAT,jtrinidad@powerstop.com,JAT50,Warranty Replacement,S4790,Yes,900006,TT897957,10452257,108182509.0,,,S4790,S4790,1.0,0.0,1.0,,verify qty
 49,2023-03-20 15:48:00,Lisa Cregan - LCR,lcregan@powerstop.com,LCR49,Small Parcel Returns,,,902930,TT897828,114-0326892-7922621,,,cx recvd 2 front pass side rotors ,AR8654XL,AR8654XL,1.0,0.0,verify boxes,,
 48,2023-03-20 15:25:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO48,Small Parcel Returns,,,902670,TT897360,49006450-467PJ6,108169030.0,,,K8166 x1,K8166,1.0,303.73,1.0,,
-47,2023-03-20 15:21:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO47,Bulk Returns,,,903265,TT897872,075649,,,,Z26-1808 CBN-FIB CER BRAKE PAD	UC	1,Z26-1808,1.0,0.0,1.0,,
+47,2023-03-20 15:21:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO47,Bulk Returns,,,903265,TT897872,075649,,,,Z26-1808 CBN-FIB CER BRAKE PAD	UC	1,Z26-1808,1.0,30.79,1.0,,
 47,2023-03-20 15:21:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO47,Bulk Returns,,,903265,TT897872,075649,,,,Z23-6010 Z23 EVO SPORT BRAKE P	UC	1,Z23-6010,1.0,0.0,1.0,,
 47,2023-03-20 15:21:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO47,Bulk Returns,,,903265,TT897872,075649,,,,Z23-1204 CBN FIBR/CER BRAKE PA	UC	1,Z23-1204,1.0,0.0,1.0,,
 47,2023-03-20 15:21:00,Jeffina Hogan - JHO,JHogan@powerstop.com,JHO47,Bulk Returns,,,903265,TT897872,075649,,,,Z23-1194 CBN FIBR/CER BRAKE PA	UC	2,Z23-1194,2.0,0.0,1.0,,
@@ -1705,7 +1716,7 @@ RETURN TRACK %23771613227206 ",S15044  x1,S15044,1.0,580.79,1.0,,
 37,2023-03-20 12:24:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN37,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,87485076,108160048.0,,NO LONGER NEEDED,CRK2384 FRONT KIT 1,CRK2384,1.0,83.17,1.0,,
 255,2023-04-05 13:04:00,Pedro Galvez - PGA,pgalvez@powerstop.com,PGA255,Warranty Replacement,"S4752, AR8571XPR, Z36-757",Yes,903285,902610,21518875,108227782.0,,Rear caliper piston seized ,S4752,S4752,1.0,0.0,1.0,,verify qty
 36,2023-03-20 12:22:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN36,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,87530781,108162460.0,,INACURRATE WEB DESCRIPTION,S3298 CALIPER  1,S3298,1.0,235.86,1.0,,
-36,2023-03-20 12:22:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN36,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,87530781,108162460.0,,INACURRATE WEB DESCRIPTION,S6038 CALIPER  1,S6038,1.0,183.72,1.0,,
+36,2023-03-20 12:22:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN36,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,87530781,108162460.0,,INACURRATE WEB DESCRIPTION,S6038 CALIPER  1,S6038,1.0,0.0,1.0,,
 168,2023-03-30 12:22:00,Pedro Galvez - PGA,pgalvez@powerstop.com,PGA168,Warranty Replacement,"S4918, AR8654XPR, Z36-1092",Yes,903285,"900205,900050",112-6108442-7069825,108211382.0,,Calipers sticking or dragging causing damaged to pads and rotors, Z36-1092,Z36-1092,1.0,0.0,1.0,,verify qty
 168,2023-03-30 12:22:00,Pedro Galvez - PGA,pgalvez@powerstop.com,PGA168,Warranty Replacement,"S4918, AR8654XPR, Z36-1092",Yes,903285,"900205,900050",112-6108442-7069825,108211382.0,,Calipers sticking or dragging causing damaged to pads and rotors, AR8654XPR,AR8654XPR,1.0,0.0,1.0,,
 35,2023-03-20 12:20:00,Jamie Novak - JAN,JNovak@powerstop.com,JAN35,Small Parcel Returns,,,904030,PARTS GEEK VENDOR,87622727,108167022.0,,PHONE REP ERROR,KOE6074 FORNT/REAR KIT  1,KOE6074,1.0,277.83,2.0,,
