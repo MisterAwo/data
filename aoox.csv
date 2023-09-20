@@ -1,412 +1,407 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108634617,Jegs,S4882                           ,S212E                           ,2023-09-18,,1,156.91,oos?
-BP,108634704,Jegs,BH00076                         ,B255F                           ,2023-09-18,,1,97.69,oos?
-BP,108635264,Summit Racing,AR8374XL                        ,C201A                           ,2023-09-18,,1,301.04,oos?
-BP,108635264,Summit Racing,AR8374XR                        ,C201B                           ,2023-09-18,,1,301.04,oos?
-BP,108635266,CarID,JBR1396XL                       ,C121A                           ,2023-09-18,,1,359.47,oos?
-BP,108635266,CarID,JBR1396XR                       ,C121A                           ,2023-09-18,,1,359.47,oos?
-BP,108635273,Jegs,BH00115                         ,B257E                           ,2023-09-18,,1,99.75,oos?
-BP,108634142,Turn14 Distribution,Z26-310                         ,M534F                           ,2023-09-18,,2,147.89,oos?
-BP,108633911,Amazon,H16114AK                        ,V483J                           ,2023-09-17,,2,525.13,oos?
-BP,108633572,Jegs,JBR1395EVC                      ,R121B                           ,2023-09-17,,2,156.89,oos?
-BP,108633575,Turn14 Distribution,BH00007                         ,B251D                           ,2023-09-17,,2,44.0,oos?
-BP,108632785,Jegs,AR82161XL                       ,H594D                           ,2023-09-17,,2,394.3,oos?
-BP,108632785,Jegs,AR82161XR                       ,H594D                           ,2023-09-17,,2,394.3,oos?
-BP,108631026,Jegs,BH00115                         ,B257E                           ,2023-09-16,,3,99.75,oos?
-BP,108631987,Turn14 Distribution,AR8374XL                        ,C201A                           ,2023-09-18,2023-08-29,3,353.67,replenished
-BP,108631987,Turn14 Distribution,AR8374XR                        ,C201B                           ,2023-09-18,,3,353.67,oos?
-BP,108630373,Turn 5 Inc,AR85195XL                       ,G171A                           ,2023-09-15,,4,147.28,oos?
-BP,108630373,Turn 5 Inc,AR85195XR                       ,G171A                           ,2023-09-15,,4,147.28,oos?
-BP,108630224,Turn14 Distribution,JBR1759EVC                      ,U042B                           ,2023-09-15,,4,211.68,oos?
-BP,108629228,Jegs,Z36-2250                        ,P372A                           ,2023-09-15,,4,173.2,oos?
-BP,108628308,Summit Racing,EBR1649EVC                      ,W103D                           ,2023-09-14,,5,482.93,oos?
-BP,108628308,Summit Racing,EBR1650EVC                      ,W171C                           ,2023-09-14,,5,482.93,oos?
-BP,108628308,Summit Racing,ESP2499                         ,W323C                           ,2023-09-14,,5,482.93,oos?
-BP,108628308,Summit Racing,ESP9001                         ,W323J                           ,2023-09-14,,5,482.93,oos?
-BP,108627533,Summit Racing,AR85199XL                       ,F081A                           ,2023-09-14,,5,485.04,oos?
-BP,108627533,Summit Racing,AR85199XR                       ,F081A                           ,2023-09-14,,5,485.04,oos?
-BP,108627454,Summit Racing,Z23-1185F                       ,M842D                           ,2023-09-14,,5,68.61,oos?
-BP,108628449,Turn14 Distribution,BH00126                         ,B257G                           ,2023-09-14,,5,70.63,oos?
-BP,108627293,Turn 5 Inc,AR85195XL                       ,G171A                           ,2023-09-14,,6,147.28,oos?
-BP,108627293,Turn 5 Inc,AR85195XR                       ,G171A                           ,2023-09-14,,6,147.28,oos?
-BP,108625931,Fire Services Inc.,AR85189EVC                      ,U051A                           ,2023-09-13,,6,540.56,oos?
-BP,108626127,AutoZone,AR85108XL                       ,V411A                           ,2023-09-14,,6,191.91,oos?
-BP,108626127,AutoZone,AR85108XR                       ,V411A                           ,2023-09-14,2023-07-19,6,191.91,replenished
-BP,108626265,AutoZone,AR85108XL                       ,V411A                           ,2023-09-14,2023-07-19,6,404.22,replenished
-BP,108626265,AutoZone,AR85108XR                       ,V411A                           ,2023-09-14,,6,404.22,oos?
-BP,108625732,Jegs,Z23-2036                        ,M311D                           ,2023-09-13,2023-07-19,6,49.22,replenished
-BP,108625511,Summit Racing,Z23-1450                        ,M532F                           ,2023-09-13,,6,34.07,oos?
-BP,108625434,Summit Racing,JBR1395EVC                      ,R121B                           ,2023-09-13,,6,156.89,oos?
-BP,108625325,Summit Racing,JBR1787XL                       ,P202A                           ,2023-09-13,,6,200.14,oos?
-BP,108625325,Summit Racing,JBR1787XR                       ,P202A                           ,2023-09-13,,6,200.14,oos?
-BP,108622546,Jegs,S5486                           ,T301E                           ,2023-09-12,,7,421.19,oos?
-BP,108622854,Summit Racing,AR84104XPR                      ,V263B                           ,2023-09-12,,7,141.29,oos?
-BP,108622382,Jegs,AR85159XR                       ,P211B                           ,2023-09-12,,7,124.24,oos?
-BP,108623308,Summit Racing,Z26-1379B                       ,M534E                           ,2023-09-12,,7,227.51,oos?
-BP,108623682,Jegs,L4379                           ,S061J                           ,2023-09-12,,7,184.11,oos?
-BP,108623392,Turn14 Distribution,BH00140                         ,B258B                           ,2023-09-12,,7,980.15,oos?
-BP,108623551,Jegs,S5118A                          ,S323B                           ,2023-09-12,,7,179.1,oos?
-BP,108620170,Jegs,S5400A                          ,S463A                           ,2023-09-11,,8,226.94,oos?
-BP,108620234,Turn14 Distribution,AR8184XL                        ,F121B                           ,2023-09-11,,8,390.75,oos?
-BP,108620234,Turn14 Distribution,AR8184XR                        ,F121B                           ,2023-09-11,,8,390.75,oos?
-BP,108619887,Jegs,S5118A                          ,S323B                           ,2023-09-11,,8,179.1,oos?
-BP,108619947,Jegs,BH00163                         ,B259D                           ,2023-09-11,,8,131.95,oos?
-BP,108619868,Summit Racing,S5030BLK                        ,S413B                           ,2023-09-11,,8,228.09,oos?
-BP,108620293,Jegs,S2778                           ,T051C                           ,2023-09-11,,8,1917.87,oos?
-BP,108621082,Summit Racing,EBR1699EVC                      ,U283C                           ,2023-09-11,,8,172.77,oos?
-BP,108620908,Turn14 Distribution,EBR1649EVC                      ,W103D                           ,2023-09-11,,8,341.4,oos?
-BP,108620908,Turn14 Distribution,EBR1650EVC                      ,W171C                           ,2023-09-11,,8,341.4,oos?
-BP,108621151,Turn14 Distribution,JBR1389XL                       ,H011A                           ,2023-09-11,,8,331.39,oos?
-BP,108621151,Turn14 Distribution,JBR1389XR                       ,H011A                           ,2023-09-11,,8,331.39,oos?
-BP,108621309,Turn14 Distribution,JBR544XL                        ,C493B                           ,2023-09-11,,8,173.64,oos?
-BP,108621309,Turn14 Distribution,JBR544XR                        ,C493B                           ,2023-09-11,,8,173.64,oos?
-BP,108619475,Summit Racing,S15092                          ,V471B                           ,2023-09-11,,9,238.32,oos?
-BP,108619460,Summit Racing,Z23-1903                        ,M145F                           ,2023-09-11,,9,69.66,oos?
-BP,108618444,Jegs,S2576                           ,S321F                           ,2023-09-10,,9,181.76,oos?
-BP,108618140,Summit Racing,JBR1786XL                       ,P222F                           ,2023-09-10,,9,255.65,oos?
-BP,108618140,Summit Racing,JBR1786XR                       ,P222F                           ,2023-09-10,,9,255.65,oos?
-BP,108618140,Summit Racing,JBR1788XL                       ,P202B                           ,2023-09-10,,9,255.65,oos?
-BP,108618140,Summit Racing,JBR1788XR                       ,P202B                           ,2023-09-10,2023-07-20,9,255.65,replenished
-BP,108618140,Summit Racing,Z23-2045                        ,M332C                           ,2023-09-10,2023-07-20,9,255.65,replenished
-BP,108617830,Summit Racing,AR8184XL                        ,F121B                           ,2023-09-11,,10,450.69,oos?
-BP,108617830,Summit Racing,AR8184XR                        ,F121B                           ,2023-09-11,2023-07-20,10,450.69,replenished
-BP,108616850,Summit Racing,JBR1787XL                       ,P202A                           ,2023-09-09,,10,187.8,oos?
-BP,108616850,Summit Racing,JBR1787XR                       ,P202A                           ,2023-09-09,,10,187.8,oos?
-BP,108616850,Summit Racing,Z23-2045                        ,M332C                           ,2023-09-09,,10,187.8,oos?
-BP,108617318,Jegs,AR8658XL                        ,R391B                           ,2023-09-09,2023-07-20,10,196.56,replenished
-BP,108617318,Jegs,AR8658XR                        ,R391B                           ,2023-09-09,,10,196.56,oos?
-BP,108617637,Jegs,AR8396XR                        ,H523A                           ,2023-09-10,,10,246.4,oos?
-BP,108620283,Summit Racing,17-2179                         ,K513H                           ,2023-09-11,,10,58.91,oos?
-BP,108615692,Turn14 Distribution,17-2302                         ,L033A                           ,2023-09-08,,11,122.72,oos?
-BP,108615692,Turn14 Distribution,JBR1908EVC                      ,U342E                           ,2023-09-08,,11,122.72,oos?
-BP,108615915,Summit Racing,JBR307XL                        ,H494D                           ,2023-09-08,,11,332.74,oos?
-BP,108615915,Summit Racing,JBR307XR                        ,H494D                           ,2023-09-08,,11,332.74,oos?
-BP,108615607,Turn14 Distribution,AR84104XL                       ,V263B                           ,2023-09-08,,11,177.2,oos?
-BP,108615607,Turn14 Distribution,AR84104XR                       ,V263B                           ,2023-09-08,,11,177.2,oos?
-BP,108615530,Turn14 Distribution,EBR898                          ,B613B                           ,2023-09-08,,11,110.27,oos?
-BP,108615256,Summit Racing,AR84104XL                       ,V263B                           ,2023-09-08,,11,190.67,oos?
-BP,108615256,Summit Racing,AR84104XR                       ,V263B                           ,2023-09-08,,11,190.67,oos?
-BP,108615057,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-08,,11,253.97,oos?
-BP,108615125,Summit Racing,AR8539XL                        ,H521D                           ,2023-09-08,,11,668.9,oos?
-BP,108615125,Summit Racing,AR8539XR                        ,H521D                           ,2023-09-08,,11,668.9,oos?
-BP,108615125,Summit Racing,JBR1389XL                       ,H011A                           ,2023-09-08,,11,668.9,oos?
-BP,108615125,Summit Racing,JBR1389XR                       ,H011A                           ,2023-09-08,,11,668.9,oos?
-BP,108614575,Summit Racing,JBR1738XPR                      ,D521B                           ,2023-09-08,,11,93.44,oos?
-BP,108614665,Jegs,S5400A                          ,S463A                           ,2023-09-08,,11,226.94,oos?
-BP,108614564,Jegs,JBR1789XL                       ,P222A                           ,2023-09-08,,11,232.42,oos?
-BP,108614564,Jegs,JBR1789XR                       ,P222A                           ,2023-09-08,,11,232.42,oos?
-BP,108612509,Jegs,B659                            ,K622F                           ,2023-09-07,,12,13.44,oos?
-BP,108614288,Summit Racing,Z23-1646                        ,M323C                           ,2023-09-07,,12,129.52,oos?
-BP,108612764,ECS Tuning LLC,EBR898                          ,B613B                           ,2023-09-07,,12,219.98,oos?
-BP,108613494,Turn14 Distribution,17-2036                         ,K141E                           ,2023-09-07,,12,189.87,oos?
-BP,108613494,Turn14 Distribution,JBR1721EVC                      ,U162A                           ,2023-09-07,,12,189.87,oos?
-BP,108613494,Turn14 Distribution,JBR1750EVC                      ,U242D                           ,2023-09-07,,12,189.87,oos?
-BP,108627504,Summit Racing,S1830                           ,S301A                           ,2023-09-14,,12,986.88,oos?
-BP,108611859,Jegs,S4894                           ,T101A                           ,2023-09-06,,13,229.04,oos?
-BP,108611156,Jegs,AR82203XR                       ,P202G                           ,2023-09-06,,13,456.57,oos?
-BP,108611111,Summit Racing,Z23-1850                        ,M331B                           ,2023-09-06,,13,114.44,oos?
-BP,108610196,Summit Racing,AR85125XL                       ,J582B                           ,2023-09-06,,13,814.13,oos?
-BP,108610196,Summit Racing,AR85125XR                       ,J582B                           ,2023-09-06,,13,814.13,oos?
-BP,108610200,Jegs,EBR860EVC                       ,W013A                           ,2023-09-06,,13,151.67,oos?
-BP,108610200,Jegs,Z23-847                         ,M772A                           ,2023-09-06,2023-07-21,13,151.67,replenished
-BP,108609717,Jegs,B593                            ,K571E                           ,2023-09-05,2023-07-22,14,38.38,replenished
-BP,108609117,Turn14 Distribution,BH00115                         ,B257E                           ,2023-09-05,,14,92.4,oos?
-BP,108609202,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-05,,14,253.97,oos?
-BP,108609707,Turn14 Distribution,AR85135                         ,Q191D                           ,2023-09-05,,14,100.96,oos?
-BP,108609031,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-05,,14,253.97,oos?
-BP,108609108,Jegs,AR8658XL                        ,R391B                           ,2023-09-05,,14,213.39,oos?
-BP,108609108,Jegs,AR8658XR                        ,R391B                           ,2023-09-05,,14,213.39,oos?
-BP,108608801,Summit Racing,EBR1037XL                       ,E022C                           ,2023-09-05,2023-07-22,14,182.25,replenished
-BP,108608801,Summit Racing,EBR1037XR                       ,E022C                           ,2023-09-05,2023-07-22,14,182.25,replenished
-BP,108608800,Summit Racing,S15092                          ,V471B                           ,2023-09-05,,14,457.72,oos?
-BP,108608800,Summit Racing,S6274                           ,S222E                           ,2023-09-05,,14,457.72,oos?
-BP,108607579,Summit Racing,JBR1738XPR                      ,D521B                           ,2023-09-05,,15,228.07,oos?
-BP,108606700,Jegs,S3336                           ,T071G                           ,2023-09-04,,15,456.61,oos?
-BP,108606794,Jegs,AR85173XL                       ,P222D                           ,2023-09-04,,15,371.99,oos?
-BP,108606794,Jegs,AR85173XR                       ,P222D                           ,2023-09-04,,15,371.99,oos?
-BP,108606794,Jegs,AR85201XL                       ,E142A                           ,2023-09-04,,15,371.99,oos?
-BP,108606794,Jegs,AR85201XR                       ,E142A                           ,2023-09-04,,15,371.99,oos?
-BP,108607047,Jegs,AR8396XR                        ,H523A                           ,2023-09-05,,15,246.4,oos?
-BP,108606227,Summit Racing,BH00006                         ,B251C                           ,2023-09-04,,15,50.75,oos?
-BP,108606379,Jegs,S5486                           ,T301E                           ,2023-09-04,,15,421.19,oos?
-BP,108606687,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-04,,15,253.97,oos?
-BP,108606698,Jegs,S7140                           ,T251D                           ,2023-09-04,,15,396.58,oos?
-BP,108604604,Summit Racing,S5486                           ,T301E                           ,2023-09-03,,17,607.54,oos?
-BP,108604461,Turn 5 Inc,AR8387                          ,Q184A                           ,2023-09-03,,17,214.95,oos?
-BP,108603434,Jegs,S5400A                          ,S463A                           ,2023-09-02,,17,226.94,oos?
-BP,108604081,Jegs,S5486                           ,T301E                           ,2023-09-02,,17,421.19,oos?
-BP,108604409,Turn14 Distribution,AR8374XL                        ,C201A                           ,2023-09-03,,17,287.96,oos?
-BP,108604409,Turn14 Distribution,AR8374XR                        ,C201B                           ,2023-09-03,,17,287.96,oos?
-BP,108602194,Jegs,Z26-1892                        ,M153E                           ,2023-09-01,,18,195.72,oos?
-BP,108602457,Summit Racing,L4747                           ,T482F                           ,2023-09-01,,18,139.48,oos?
-BP,108602462,Jegs,BH00043                         ,B254A                           ,2023-09-01,2023-07-23,18,63.34,replenished
-BP,108602561,Turn14 Distribution,S3320A                          ,S401E                           ,2023-09-01,,18,220.92,oos?
-BP,108601931,Turn14 Distribution,JBR1908XL                       ,E142D                           ,2023-09-01,,18,139.53,oos?
-BP,108601931,Turn14 Distribution,JBR1908XR                       ,E142D                           ,2023-09-01,,18,139.53,oos?
-BP,108601491,Jegs,17-2302                         ,L033A                           ,2023-09-01,,18,122.41,oos?
-BP,108601284,Turn14 Distribution,Z23-2176                        ,M282F                           ,2023-09-01,,19,190.98,oos?
-BP,108599472,Turn14 Distribution,S4894                           ,T101A                           ,2023-08-31,2023-07-24,19,396.92,replenished
-BP,108597681,Jegs,AR8144XL                        ,H031A                           ,2023-08-30,,20,298.76,oos?
-BP,108597681,Jegs,AR8145XR                        ,H031A                           ,2023-08-30,,20,298.76,oos?
-BP,108597681,Jegs,AR8146XL                        ,F602B                           ,2023-08-30,,20,298.76,oos?
-BP,108597681,Jegs,AR8146XR                        ,F602B                           ,2023-08-30,,20,298.76,oos?
-BP,108597497,Summit Racing,EBR1605EVC                      ,W083E                           ,2023-08-30,,20,875.88,oos?
-BP,108597469,Summit Racing,JBR1740XL                       ,J592A                           ,2023-08-30,2023-07-24,20,101.74,replenished
-BP,108597469,Summit Racing,JBR1740XR                       ,J592A                           ,2023-08-30,,20,101.74,oos?
-BP,108597443,Summit Racing,BH00172                         ,E262A                           ,2023-08-30,,20,466.81,oos?
-BP,108596028,Summit Racing,S5486                           ,T301E                           ,2023-08-29,2023-07-24,21,607.54,replenished
-BP,108595816,Summit Racing,BH00067                         ,B254L                           ,2023-08-29,,21,104.37,oos?
-BP,108594904,Summit Racing,B228                            ,K253C                           ,2023-08-29,,21,142.03,oos?
-BP,108595472,Jegs,AR84104XL                       ,V263B                           ,2023-08-29,,21,184.45,oos?
-BP,108595472,Jegs,AR84104XR                       ,V263B                           ,2023-08-29,,21,184.45,oos?
-BP,108595472,Jegs,Z36-2174                        ,P183B                           ,2023-08-29,,21,184.45,oos?
-BP,108592647,Turn14 Distribution,BH00172                         ,E262A                           ,2023-08-28,,22,64.51,oos?
-BP,108592676,Jegs,17-2174                         ,K181B                           ,2023-08-28,,22,150.25,oos?
-BP,108592676,Jegs,AR84104EVC                      ,U303F                           ,2023-08-28,2023-07-24,22,150.25,replenished
-BP,108591745,Summit Racing,S4796                           ,T481C                           ,2023-08-28,2023-07-24,22,206.82,replenished
-HK,108591747,Summit Racing,Z36-368                         ,P184F                           ,2023-08-28,,22,85.68,oos?
-BP,108591759,Summit Racing,S15092                          ,V471B                           ,2023-08-28,,22,238.32,oos?
-BP,108592370,Summit Racing,BH00103                         ,B256H                           ,2023-08-28,,22,97.27,oos?
-BP,108593708,Jegs,Z36-2300                        ,P195F                           ,2023-08-28,,22,283.87,oos?
-BP,108593994,Summit Racing,EBR1207XL                       ,C521A                           ,2023-08-28,,22,202.64,oos?
-BP,108593994,Summit Racing,EBR1207XR                       ,C521A                           ,2023-08-28,,22,202.64,oos?
-BP,108593361,Jegs,PSA-1124                        ,W473D                           ,2023-08-28,,22,136.56,oos?
-BP,108593129,Summit Racing,JBR1787XL                       ,P202A                           ,2023-08-28,,22,289.86,oos?
-BP,108593129,Summit Racing,JBR1787XR                       ,P202A                           ,2023-08-28,,22,289.86,oos?
-BP,108590262,Summit Racing,Z23-1646                        ,M323C                           ,2023-08-27,,23,160.83,oos?
-BP,108589832,Summit Racing,S1694                           ,T281B                           ,2023-08-27,,24,104.49,oos?
-BP,108588678,Summit Racing,AR83079XL                       ,F061B                           ,2023-08-26,,24,252.37,oos?
-BP,108588678,Summit Racing,AR83079XR                       ,F061B                           ,2023-08-26,,24,252.37,oos?
-BP,108588780,Summit Racing,AR85201XL                       ,E142A                           ,2023-08-26,,24,136.69,oos?
-BP,108588780,Summit Racing,AR85201XR                       ,E142A                           ,2023-08-26,,24,136.69,oos?
-BP,108589134,Turn14 Distribution,AR85199XPR                      ,F081A                           ,2023-08-26,,24,356.02,oos?
-BP,108589831,Summit Racing,BH00067                         ,B254L                           ,2023-08-27,,24,104.37,oos?
-BP,108588052,Jegs,S15020                          ,S233G                           ,2023-08-25,,25,325.8,oos?
-BP,108586797,Jegs,S2576                           ,S321F                           ,2023-08-25,,25,257.47,oos?
-BP,108586716,Summit Racing,JBR509XPR                       ,H503A                           ,2023-08-25,,25,94.47,oos?
-BP,108586712,Jegs,Z26-1892                        ,M153E                           ,2023-08-25,,25,89.67,oos?
-BP,108587137,Summit Racing,AR85199XL                       ,F081A                           ,2023-08-25,,25,485.04,oos?
-BP,108587137,Summit Racing,AR85199XR                       ,F081A                           ,2023-08-25,,25,485.04,oos?
-BP,108587019,Turn14 Distribution,AR8374XR                        ,C201B                           ,2023-08-25,2023-07-24,25,143.98,replenished
-BP,108587086,Jegs,BH00172                         ,E262A                           ,2023-08-25,,25,69.64,oos?
-BP,108587731,Jegs,S4378                           ,S251E                           ,2023-08-25,,25,106.69,oos?
-BP,108587845,Turn14 Distribution,S5486                           ,T301E                           ,2023-08-25,,25,197.12,oos?
-BP,108585996,Turn14 Distribution,JBR1908XL                       ,E142D                           ,2023-08-25,,26,139.53,oos?
-BP,108585996,Turn14 Distribution,JBR1908XR                       ,E142D                           ,2023-08-25,,26,139.53,oos?
-BP,108585093,Jegs,S5522                           ,S193E                           ,2023-08-24,,26,199.09,oos?
-BP,108585357,Summit Racing,JBR1778XL                       ,J542C                           ,2023-08-24,,26,319.77,oos?
-BP,108585357,Summit Racing,JBR1778XR                       ,J542C                           ,2023-08-24,,26,319.77,oos?
-BP,108585665,Jegs,BH00130                         ,B257K                           ,2023-08-25,,26,99.08,oos?
-BP,108585730,Turn14 Distribution,16-1107                         ,K172G                           ,2023-08-25,,26,434.08,oos?
-BP,108583463,Jegs,S5472                           ,S433B                           ,2023-08-23,,27,212.81,oos?
-BP,108584002,Jegs,EBR1699XPR                      ,E142E                           ,2023-08-23,,27,201.57,oos?
-BP,108583314,Summit Racing,AR84104EVC                      ,U303F                           ,2023-08-23,,27,150.25,oos?
-BP,108581391,Jegs,EBR1207XL                       ,C521A                           ,2023-08-22,,28,532.29,oos?
-BP,108581391,Jegs,EBR1207XR                       ,C521A                           ,2023-08-22,,28,532.29,oos?
-BP,108581391,Jegs,S6650                           ,S183A                           ,2023-08-22,,28,532.29,oos?
-HK,108581482,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,28,231.35,oos?
-HK,108581721,Summit Racing,Z23-2035                        ,M333D                           ,2023-08-23,,28,124.88,oos?
-HK,108581484,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,28,231.35,oos?
-HK,108581485,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,28,231.35,oos?
-HK,108581483,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,28,231.35,oos?
-BP,108578368,Summit Racing,BH00103                         ,B256H                           ,2023-08-21,,29,97.27,oos?
-BP,108580091,Turn14 Distribution,JBR1789EVC                      ,U341A                           ,2023-08-21,,29,166.17,oos?
-BP,108577764,Jegs,JBR1789XL                       ,P222A                           ,2023-08-21,,30,403.84,oos?
-BP,108577764,Jegs,JBR1789XR                       ,P222A                           ,2023-08-21,,30,403.84,oos?
-BP,108577108,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-08-21,,30,252.43,oos?
-BP,108576810,Turn 5 Inc,B569                            ,K263A                           ,2023-08-20,,30,8.07,oos?
-BP,108576982,Jegs,BH00162                         ,B259C                           ,2023-08-20,,30,131.95,oos?
-BP,108576510,Jegs,S5522                           ,S193E                           ,2023-08-20,,30,363.48,oos?
-BP,108576640,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-08-20,2023-07-25,30,252.43,replenished
-BP,108576169,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-08-21,2023-07-25,30,252.43,replenished
-BP,108574486,Jegs,S2576                           ,S321F                           ,2023-08-19,,31,181.76,oos?
-BP,108574777,Jegs,S3336                           ,T071G                           ,2023-08-19,,31,245.13,oos?
-BP,108574892,Summit Racing,L4256                           ,S131D                           ,2023-08-29,,31,28.9,oos?
-BP,108573917,Summit Racing,BH00029                         ,B253B                           ,2023-08-18,,32,88.64,oos?
-BP,108573476,Summit Racing,JBR1179XL                       ,P222B                           ,2023-08-18,,32,280.58,oos?
-BP,108573476,Summit Racing,JBR1179XR                       ,P222B                           ,2023-08-18,,32,280.58,oos?
-BP,108573852,Jegs,S4702                           ,S243C                           ,2023-08-18,,32,208.82,oos?
-BP,108572469,Summit Racing,S5472                           ,S433B                           ,2023-08-18,,32,216.68,oos?
-BP,108572585,Summit Racing,S4796                           ,T481C                           ,2023-08-29,,32,206.82,oos?
-BP,108571545,Jegs,S5472                           ,S433B                           ,2023-08-17,,33,212.81,oos?
-BP,108570861,Jegs,S6992                           ,T061C                           ,2023-08-17,,33,214.48,oos?
-BP,108571541,Jegs,S4746                           ,T251F                           ,2023-08-17,,33,167.44,oos?
-BP,108570329,Summit Racing,S4792                           ,S221A                           ,2023-08-17,,33,996.89,oos?
-BP,108570407,Turn 5 Inc,AR8396                          ,W334D                           ,2023-08-17,,33,230.58,oos?
-BP,108570840,Jegs,S4816                           ,T251E                           ,2023-08-17,,33,203.2,oos?
-BP,108568934,Summit Racing,EBR1037XL                       ,E022C                           ,2023-08-16,,34,182.25,oos?
-BP,108568934,Summit Racing,EBR1037XR                       ,E022C                           ,2023-08-16,,34,182.25,oos?
-BP,108568935,Turn14 Distribution,AR84104XL                       ,V263B                           ,2023-08-16,,34,450.31,oos?
-BP,108568935,Turn14 Distribution,AR84104XR                       ,V263B                           ,2023-08-16,,34,450.31,oos?
-BP,108568655,Summit Racing,AD8620P                         ,G613F                           ,2023-08-16,,34,424.96,oos?
-BP,108569920,Turn14 Distribution,S5118A                          ,S323B                           ,2023-08-17,2023-07-26,34,168.61,replenished
-BP,108567941,Jegs,BH00130                         ,B257K                           ,2023-08-16,,34,99.08,oos?
-BP,108568136,Jegs,S2074                           ,S292H                           ,2023-08-16,,34,177.37,oos?
-BP,108567724,Turn 5 Inc,AR83090XPR                      ,P451A                           ,2023-08-16,,35,699.04,oos?
-BP,108566817,Turn 5 Inc,AR83090XPR                      ,P451A                           ,2023-08-15,,35,731.66,oos?
-BP,108565790,Summit Racing,EBR1652XL                       ,J492E                           ,2023-08-15,,35,969.14,oos?
-BP,108565790,Summit Racing,EBR1652XR                       ,J492E                           ,2023-08-15,,35,969.14,oos?
-BP,108565295,Jegs,S3336                           ,T071G                           ,2023-08-15,,35,646.62,oos?
-BP,108565295,Jegs,S7140                           ,T251D                           ,2023-08-15,2023-07-26,35,646.62,replenished
-BP,108565936,Jegs,S6142                           ,S452A                           ,2023-08-15,,35,836.85,oos?
-BP,108565936,Jegs,S6956                           ,S413F                           ,2023-08-15,,35,836.85,oos?
-BP,108566113,Jegs,Z23-1075                        ,M821A                           ,2023-08-15,,35,279.99,oos?
-BP,108565796,Summit Racing,JBR1550                         ,F163D                           ,2023-08-15,,35,185.84,oos?
-BP,108565934,Jegs,Z23-618                         ,M731F                           ,2023-08-15,,35,265.26,oos?
-BP,108566476,Summit Racing,Z23-2180                        ,M313C                           ,2023-08-15,,35,195.21,oos?
-BP,108566690,Turn14 Distribution,BH00075                         ,B255E                           ,2023-08-15,,35,90.49,oos?
-BP,108563448,Jegs,S5472                           ,S433B                           ,2023-08-14,,36,212.81,oos?
-BP,108563202,Summit Racing,AR82155                         ,Q091B                           ,2023-08-14,,36,865.71,oos?
-BP,108563202,Summit Racing,BH00130                         ,B257K                           ,2023-08-14,2023-07-27,36,865.71,replenished
-HK,108562406,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-14,,36,68.18,oos?
-HK,108562400,Summit Racing,S4918ABLK                       ,S412F                           ,2023-08-14,,36,1069.2,oos?
-BP,108561961,Summit Racing,17-1808                         ,L041E                           ,2023-08-14,,37,198.56,oos?
-BP,108561961,Summit Racing,JBR1787                         ,Q244B                           ,2023-08-14,,37,198.56,oos?
-BP,108560463,Jegs,S4816                           ,T251E                           ,2023-08-13,,37,414.24,oos?
-BP,108560100,Summit Racing,BH00161                         ,B259B                           ,2023-08-13,,38,140.97,oos?
-BP,108560093,Summit Racing,BH00030                         ,B253C                           ,2023-08-13,,38,492.35,oos?
-BP,108558847,Turn14 Distribution,BH00172                         ,E262A                           ,2023-08-12,,38,64.51,oos?
-BP,108559582,Jegs,AR85181XL                       ,P413C                           ,2023-08-12,,38,259.89,oos?
-BP,108559582,Jegs,AR85181XR                       ,P413C                           ,2023-08-12,,38,259.89,oos?
-BP,108559582,Jegs,Z23-1833A                       ,M822B                           ,2023-08-12,,38,259.89,oos?
-BP,108554360,Summit Racing,Z23-1091                        ,M823D                           ,2023-08-10,,40,674.38,oos?
-BP,108554834,Turn14 Distribution,Z36-1455                        ,P143D                           ,2023-08-10,,40,436.11,oos?
-BP,108554358,Jegs,Z36-2250                        ,P372A                           ,2023-08-10,,40,353.92,oos?
-BP,108552339,Jegs,AR86004XL                       ,V262C                           ,2023-08-09,,41,316.47,oos?
-BP,108552339,Jegs,AR86004XR                       ,V262C                           ,2023-08-09,,41,316.47,oos?
-BP,108553343,Summit Racing,JBR1179XL                       ,P222B                           ,2023-08-09,,41,302.87,oos?
-BP,108553343,Summit Racing,JBR1179XR                       ,P222B                           ,2023-08-09,,41,302.87,oos?
-BP,108551202,Summit Racing,BH00006                         ,B251C                           ,2023-08-08,,42,50.75,oos?
-BP,108550851,Summit Racing,EBR898XL                        ,H191B                           ,2023-08-08,,42,187.98,oos?
-BP,108550851,Summit Racing,EBR898XR                        ,H191B                           ,2023-08-08,,42,187.98,oos?
-BP,108550851,Summit Racing,Z26-1760                        ,M202A                           ,2023-08-08,,42,187.98,oos?
-BP,108549881,Summit Racing,AR8374XL                        ,C201A                           ,2023-08-08,,42,306.11,oos?
-BP,108549881,Summit Racing,AR8374XR                        ,C201B                           ,2023-08-08,,42,306.11,oos?
-BP,108550548,Jegs,JBR1149XR                       ,D531A                           ,2023-08-08,,42,791.13,oos?
-BP,108550548,Jegs,JBR1150XL                       ,D531A                           ,2023-08-08,,42,791.13,oos?
-BP,108550548,Jegs,S3336                           ,T071G                           ,2023-08-08,,42,791.13,oos?
-BP,108550664,Turn14 Distribution,EBR666XL                        ,H621D                           ,2023-08-08,,42,120.82,oos?
-BP,108550664,Turn14 Distribution,EBR666XR                        ,H621D                           ,2023-08-08,,42,120.82,oos?
-BP,108550664,Turn14 Distribution,Z26-394                         ,M193C                           ,2023-08-08,,42,120.82,oos?
-BP,108549246,Jegs,17-976B                         ,J211D                           ,2023-08-08,,42,156.89,oos?
-BP,108547521,Summit Racing,Z23-1646                        ,M323C                           ,2023-08-07,,43,160.83,oos?
-BP,108546978,Summit Racing,SW-0510                         ,A203J                           ,2023-08-07,,43,196.85,oos?
-BP,108547006,Jegs,S2576                           ,S321F                           ,2023-08-07,,43,181.76,oos?
-BP,108547250,Jegs,JBR1778XR                       ,J542C                           ,2023-08-07,,43,318.29,oos?
-BP,108544947,Jegs,JBR1789XL                       ,P222A                           ,2023-08-07,,44,403.84,oos?
-BP,108544947,Jegs,JBR1789XR                       ,P222A                           ,2023-08-07,,44,403.84,oos?
-BP,108544579,Summit Racing,BH00096                         ,B256E                           ,2023-08-07,,45,105.39,oos?
-BP,108543332,Jegs,BH00172                         ,E262A                           ,2023-08-05,,45,69.64,oos?
-BP,108582917,Turn14 Distribution,S4702                           ,S243C                           ,2023-08-23,,45,391.0,oos?
-BP,108542732,Jegs,L4390                           ,S131G                           ,2023-08-05,,46,186.44,oos?
-BP,108541396,Summit Racing,AR84101XL                       ,V244B                           ,2023-08-07,,46,461.88,oos?
-BP,108541396,Summit Racing,AR84101XR                       ,V244B                           ,2023-08-07,,46,461.88,oos?
-BP,108541396,Summit Racing,EBR1204EVC                      ,W131D                           ,2023-08-07,,46,461.88,oos?
-BP,108541396,Summit Racing,EBR898EVC                       ,W023E                           ,2023-08-07,,46,461.88,oos?
-BP,108541396,Summit Racing,SHDK085                         ,V484B                           ,2023-08-07,,46,461.88,oos?
-BP,108541005,Jegs,S4882                           ,S212E                           ,2023-08-04,,46,156.91,oos?
-BP,108539925,Summit Racing,ESP2168                         ,W313A                           ,2023-08-03,,47,152.11,oos?
-BP,108538877,Turn14 Distribution,BH00129                         ,B257J                           ,2023-08-03,,47,301.38,oos?
-BP,108539832,Jegs,S6142                           ,S452A                           ,2023-08-03,,47,821.99,oos?
-BP,108539832,Jegs,S6956                           ,S413F                           ,2023-08-03,,47,821.99,oos?
-BP,108536012,Jegs,JBR1908XL                       ,E142D                           ,2023-08-02,,48,234.77,oos?
-BP,108536012,Jegs,JBR1908XR                       ,E142D                           ,2023-08-02,,48,234.77,oos?
-BP,108537486,Summit Racing,JBR509XPR                       ,H503A                           ,2023-08-02,,48,94.47,oos?
-BP,108535924,Jegs,S6376                           ,S162F                           ,2023-08-02,,48,242.82,oos?
-BP,108535055,Jegs,S5472                           ,S433B                           ,2023-08-02,,49,212.81,oos?
-BP,108530698,Jegs,AR85201XL                       ,E142A                           ,2023-08-01,,49,321.08,oos?
-BP,108530698,Jegs,AR85201XR                       ,E142A                           ,2023-08-01,,49,321.08,oos?
-BP,108530871,Summit Racing,S1734                           ,S331D                           ,2023-08-01,,49,332.91,oos?
-BP,108585058,Summit Racing,S5306                           ,S401A                           ,2023-08-24,,49,677.58,oos?
-BP,108578760,Summit Racing,17-1118                         ,K182H                           ,2023-08-21,,49,149.83,oos?
-BP,108532745,Turn14 Distribution,Z36-2250                        ,P372A                           ,2023-08-01,,50,72.65,oos?
-BP,108528174,Jegs,JBR1791XL                       ,P223A                           ,2023-07-31,,50,232.82,oos?
-BP,108528174,Jegs,JBR1791XR                       ,P223A                           ,2023-07-31,,50,232.82,oos?
-BP,108532746,Turn14 Distribution,Z36-2250                        ,P372A                           ,2023-08-01,,50,72.65,oos?
-BP,108539510,Summit Racing,AR86002                         ,Q201F                           ,2023-08-03,,50,101.99,oos?
-BP,108526223,Summit Racing,JBR1908XPR                      ,E142D                           ,2023-07-30,,51,145.88,oos?
-BP,108527412,Turn14 Distribution,JBR1789XL                       ,P222A                           ,2023-07-31,2023-07-31,51,229.81,replenished
-BP,108527412,Turn14 Distribution,JBR1789XR                       ,P222A                           ,2023-07-31,2023-07-31,51,229.81,replenished
-BP,108527566,Summit Racing,B989                            ,K053C                           ,2023-07-31,,51,26.63,oos?
-BP,108524425,Jegs,EBR1037XL                       ,E022C                           ,2023-07-28,,53,411.86,oos?
-BP,108524425,Jegs,EBR1037XR                       ,E022C                           ,2023-07-28,,53,411.86,oos?
-BP,108523403,Summit Racing,BH00116                         ,B257F                           ,2023-07-28,,53,105.39,oos?
-BP,108614852,Jegs,S2088                           ,T341I                           ,2023-09-08,,53,165.08,oos?
-BP,108519664,Turn14 Distribution,BH00043                         ,B254A                           ,2023-07-26,,55,58.67,oos?
-BP,108518907,Summit Racing,S4816                           ,T251E                           ,2023-07-26,,55,207.22,oos?
-BP,108518437,Turn14 Distribution,Z23-2144                        ,M533A                           ,2023-07-26,,55,103.14,oos?
-BP,108517087,Turn 5 Inc,S5396YLW                        ,S163C                           ,2023-07-25,2023-07-31,56,355.98,replenished
-BP,108517087,Turn 5 Inc,S5404YLW                        ,S163D                           ,2023-07-25,,56,355.98,oos?
-BP,108516229,Summit Racing,Z23-1182                        ,M841F                           ,2023-07-25,2023-07-31,56,263.46,replenished
-BP,108514694,Jegs,JBR1908XL                       ,E142D                           ,2023-07-24,,57,234.77,oos?
-BP,108514694,Jegs,JBR1908XR                       ,E142D                           ,2023-07-24,,57,234.77,oos?
-HK,108513769,Turn14 Distribution,BH00116                         ,B257F                           ,2023-07-24,,57,91.37,oos?
-BP,108597133,Summit Racing,S5400A                          ,S463A                           ,2023-08-30,,57,231.35,oos?
-BP,108511281,Turn 5 Inc,AR86002                         ,Q201F                           ,2023-07-22,,59,158.13,oos?
-BP,108508556,Turn14 Distribution,AR85154XL                       ,D532A                           ,2023-07-21,,60,158.03,oos?
-BP,108508658,Jegs,S4606A                          ,S252F                           ,2023-07-21,2023-07-31,60,108.08,replenished
-BP,108508540,Jegs,AR85154XL                       ,D532A                           ,2023-07-21,,60,159.83,oos?
-BP,108508541,Jegs,AR85154XL                       ,D532A                           ,2023-07-21,,60,159.83,oos?
-BP,108508548,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,60,323.24,oos?
-BP,108508549,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,60,323.24,oos?
-BP,108508550,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,60,1292.96,oos?
-BP,108508550,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,60,1292.96,oos?
-BP,108508547,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,60,646.48,oos?
-BP,108508552,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,60,646.48,oos?
-BP,108508552,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,60,646.48,oos?
-BP,108508553,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,60,646.48,oos?
-BP,108508553,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,60,646.48,oos?
-BP,108508551,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,60,484.86,oos?
-BP,108506455,Jegs,L6992                           ,T143I                           ,2023-07-20,,61,194.8,oos?
-BP,108506461,Summit Racing,BH00005                         ,B251B                           ,2023-07-20,,61,452.41,oos?
-BP,108501708,Summit Racing,EBR464XL                        ,P433D                           ,2023-08-16,,63,426.84,oos?
-BP,108501708,Summit Racing,EBR465XR                        ,P433D                           ,2023-08-16,,63,426.84,oos?
-BP,108501708,Summit Racing,JBR1597XL                       ,J591B                           ,2023-08-16,,63,426.84,oos?
-BP,108501708,Summit Racing,JBR1597XR                       ,J591B                           ,2023-08-16,,63,426.84,oos?
-BP,108501708,Summit Racing,Z23-394                         ,M501B                           ,2023-08-16,,63,426.84,oos?
-BP,108492536,Summit Racing,S5472                           ,S433B                           ,2023-08-29,,67,763.75,oos?
-HK,108522900,Jegs,S4390                           ,S303F                           ,2023-07-28,,67,100.72,oos?
-BP,108522903,Jegs,S3194                           ,S271B                           ,2023-07-28,,67,193.48,oos?
-BP,108522901,Jegs,S4390                           ,S303F                           ,2023-07-28,,67,100.72,oos?
-HK,108522902,Jegs,S4390                           ,S303F                           ,2023-07-28,2023-08-01,67,100.72,replenished
-BP,108490837,Summit Racing,JBR1908XL                       ,E142D                           ,2023-08-29,2023-08-01,68,277.26,replenished
-BP,108490837,Summit Racing,JBR1908XR                       ,E142D                           ,2023-08-29,2023-08-01,68,277.26,replenished
-BP,108475619,Jegs,S5472                           ,S433B                           ,2023-08-10,,70,583.51,oos?
-BP,108586916,Jegs,S5486                           ,T301E                           ,2023-08-25,,74,208.38,oos?
-BP,108572829,Summit Racing,BH00140                         ,B258B                           ,2023-08-18,,81,548.1,oos?
-BP,108509883,Summit Racing,Z23-1182                        ,M841F                           ,2023-07-21,,81,134.26,oos?
-BP,108428092,Summit Racing,B228                            ,K253C                           ,2023-08-09,,82,40.23,oos?
-BP,108404117,Summit Racing,Z23-2144                        ,M533A                           ,2023-08-10,,93,53.91,oos?
-BP,108397700,Summit Racing,EBR1007EVC-HC                   ,N183B                           ,2023-08-29,2023-08-01,96,554.79,replenished
-BP,108395046,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,,97,72.97,oos?
-BP,108388809,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,2023-08-01,100,105.13,replenished
-BP,108368097,Summit Racing,17-2308                         ,L053E                           ,2023-08-29,,109,250.83,oos?
-BP,108368097,Summit Racing,AR82206EVC                      ,U342F                           ,2023-08-29,,109,250.83,oos?
-BP,108506967,Summit Racing,AR84103XL                       ,V263C                           ,2023-07-20,,110,1400.55,oos?
-BP,108506967,Summit Racing,AR84103XR                       ,V263C                           ,2023-07-20,,110,1400.55,oos?
-BP,108506968,Summit Racing,AR84103XL                       ,V263C                           ,2023-07-20,,110,560.22,oos?
-BP,108506968,Summit Racing,AR84103XR                       ,V263C                           ,2023-07-20,,110,560.22,oos?
-BP,108506969,Summit Racing,AR84103XL                       ,V263C                           ,2023-07-20,,110,1400.55,oos?
-BP,108506969,Summit Racing,AR84103XR                       ,V263C                           ,2023-07-20,,110,1400.55,oos?
-BP,108506969,Summit Racing,Z36-2173                        ,P102C                           ,2023-07-20,,110,1400.55,oos?
-BP,108355867,Turn 5 Inc,BH00116                         ,B257F                           ,2023-07-28,,115,68.18,oos?
-BP,108354751,Summit Racing,JBR1788EVC                      ,U333B                           ,2023-07-24,,116,219.52,oos?
-BP,108352062,Summit Racing,JBR1789EVC                      ,U341A                           ,2023-08-29,,117,328.03,oos?
-BP,108339886,Turn 5 Inc,S5396YLW                        ,S163C                           ,2023-07-28,,122,297.55,oos?
-BP,108339886,Turn 5 Inc,S5404YLW                        ,S163D                           ,2023-07-28,,122,297.55,oos?
-BP,108335245,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,,124,68.18,oos?
-BP,108330757,Jegs,S2576                           ,S321F                           ,2023-07-26,,126,181.76,oos?
-BP,108329770,Summit Racing,S4746                           ,T251F                           ,2023-07-20,,126,406.2,oos?
-BP,108565194,Summit Racing,JBR1568XL                       ,G091B                           ,2023-08-15,,136,1596.56,oos?
-BP,108565194,Summit Racing,JBR1569XR                       ,G091B                           ,2023-08-15,,136,1596.56,oos?
-BP,108565194,Summit Racing,Z23-1586                        ,M883F                           ,2023-08-15,,136,1596.56,oos?
-BP,108292892,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,,142,68.18,oos?
-BP,108519178,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-07-26,,142,287.08,oos?
-HK,108580731,Summit Racing,S5486                           ,T301E                           ,2023-08-22,,151,563.45,oos?
-BP,108244652,Jegs,AR82197XL                       ,J594A                           ,2023-09-06,,160,629.08,oos?
-BP,108244652,Jegs,AR82197XR                       ,J594A                           ,2023-09-06,,160,629.08,oos?
-BP,108507078,Jegs,AR84103XL                       ,V263C                           ,2023-07-20,,168,455.43,oos?
-BP,108507078,Jegs,AR84103XR                       ,V263C                           ,2023-07-20,,168,455.43,oos?
-BP,108507078,Jegs,AR84104XL                       ,V263B                           ,2023-07-20,,168,455.43,oos?
-BP,108507078,Jegs,AR84104XR                       ,V263B                           ,2023-07-20,,168,455.43,oos?
-BP,108507078,Jegs,SW-1205                         ,D263L                           ,2023-07-20,,168,455.43,oos?
+BP,108635266,CarID,JBR1396XL                       ,C121A                           ,2023-09-18,,2,359.47,oos?
+BP,108635266,CarID,JBR1396XR                       ,C121A                           ,2023-09-18,,2,359.47,oos?
+BP,108635273,Jegs,BH00115                         ,B257E                           ,2023-09-18,,2,99.75,oos?
+BP,108635264,Summit Racing,AR8374XL                        ,C201A                           ,2023-09-18,,2,301.04,oos?
+BP,108635264,Summit Racing,AR8374XR                        ,C201B                           ,2023-09-18,,2,301.04,oos?
+BP,108634704,Jegs,BH00076                         ,B255F                           ,2023-09-18,,2,97.69,oos?
+BP,108634617,Jegs,S4882                           ,S212E                           ,2023-09-18,,2,156.91,oos?
+BP,108633911,Amazon,H16114AK                        ,V483J                           ,2023-09-17,,3,525.13,oos?
+BP,108632785,Jegs,AR82161XL                       ,H594D                           ,2023-09-17,,3,394.3,oos?
+BP,108632785,Jegs,AR82161XR                       ,H594D                           ,2023-09-17,,3,394.3,oos?
+BP,108633572,Jegs,JBR1395EVC                      ,R121B                           ,2023-09-17,,3,156.89,oos?
+BP,108633575,Turn14 Distribution,BH00007                         ,B251D                           ,2023-09-17,,3,44.0,oos?
+BP,108634142,Turn14 Distribution,Z26-310                         ,M534F                           ,2023-09-18,,3,147.89,oos?
+BP,108631987,Turn14 Distribution,AR8374XL                        ,C201A                           ,2023-09-18,,4,353.67,oos?
+BP,108631987,Turn14 Distribution,AR8374XR                        ,C201B                           ,2023-09-18,2023-08-29,4,353.67,replenished
+BP,108631026,Jegs,BH00115                         ,B257E                           ,2023-09-16,,4,99.75,oos?
+BP,108630224,Turn14 Distribution,JBR1759EVC                      ,U042B                           ,2023-09-15,,5,211.68,oos?
+BP,108629228,Jegs,Z36-2250                        ,P372A                           ,2023-09-15,,5,173.2,oos?
+BP,108630373,Turn 5 Inc,AR85195XL                       ,G171A                           ,2023-09-15,,5,147.28,oos?
+BP,108630373,Turn 5 Inc,AR85195XR                       ,G171A                           ,2023-09-15,,5,147.28,oos?
+BP,108628308,Summit Racing,EBR1649EVC                      ,W103D                           ,2023-09-14,,6,482.93,oos?
+BP,108628308,Summit Racing,EBR1650EVC                      ,W171C                           ,2023-09-14,,6,482.93,oos?
+BP,108628308,Summit Racing,ESP2499                         ,W323C                           ,2023-09-14,,6,482.93,oos?
+BP,108628308,Summit Racing,ESP9001                         ,W323J                           ,2023-09-14,,6,482.93,oos?
+BP,108627533,Summit Racing,AR85199XL                       ,F081A                           ,2023-09-14,,6,485.04,oos?
+BP,108627533,Summit Racing,AR85199XR                       ,F081A                           ,2023-09-14,,6,485.04,oos?
+BP,108628449,Turn14 Distribution,BH00126                         ,B257G                           ,2023-09-14,,6,70.63,oos?
+BP,108627454,Summit Racing,Z23-1185F                       ,M842D                           ,2023-09-14,,6,68.61,oos?
+BP,108626265,AutoZone,AR85108XL                       ,V411A                           ,2023-09-14,,7,404.22,oos?
+BP,108626265,AutoZone,AR85108XR                       ,V411A                           ,2023-09-14,,7,404.22,oos?
+BP,108625931,Fire Services Inc.,AR85189EVC                      ,U051A                           ,2023-09-13,,7,540.56,oos?
+BP,108626127,AutoZone,AR85108XL                       ,V411A                           ,2023-09-14,,7,191.91,oos?
+BP,108626127,AutoZone,AR85108XR                       ,V411A                           ,2023-09-14,2023-07-19,7,191.91,replenished
+BP,108625732,Jegs,Z23-2036                        ,M311D                           ,2023-09-13,2023-07-19,7,49.22,replenished
+BP,108625511,Summit Racing,Z23-1450                        ,M532F                           ,2023-09-13,,7,34.07,oos?
+BP,108625434,Summit Racing,JBR1395EVC                      ,R121B                           ,2023-09-13,2023-07-19,7,156.89,replenished
+BP,108625325,Summit Racing,JBR1787XL                       ,P202A                           ,2023-09-13,,7,200.14,oos?
+BP,108625325,Summit Racing,JBR1787XR                       ,P202A                           ,2023-09-13,,7,200.14,oos?
+BP,108627293,Turn 5 Inc,AR85195XL                       ,G171A                           ,2023-09-14,,7,147.28,oos?
+BP,108627293,Turn 5 Inc,AR85195XR                       ,G171A                           ,2023-09-14,,7,147.28,oos?
+BP,108623308,Summit Racing,Z26-1379B                       ,M534E                           ,2023-09-12,,8,227.51,oos?
+BP,108623392,Turn14 Distribution,BH00140                         ,B258B                           ,2023-09-12,,8,980.15,oos?
+BP,108623551,Jegs,S5118A                          ,S323B                           ,2023-09-12,,8,179.1,oos?
+BP,108623682,Jegs,L4379                           ,S061J                           ,2023-09-12,,8,184.11,oos?
+BP,108622546,Jegs,S5486                           ,T301E                           ,2023-09-12,,8,421.19,oos?
+BP,108622854,Summit Racing,AR84104XPR                      ,V263B                           ,2023-09-12,,8,141.29,oos?
+BP,108622382,Jegs,AR85159XR                       ,P211B                           ,2023-09-12,,8,124.24,oos?
+BP,108619868,Summit Racing,S5030BLK                        ,S413B                           ,2023-09-11,,9,228.09,oos?
+BP,108619887,Jegs,S5118A                          ,S323B                           ,2023-09-11,,9,179.1,oos?
+BP,108619947,Jegs,BH00163                         ,B259D                           ,2023-09-11,,9,131.95,oos?
+BP,108620170,Jegs,S5400A                          ,S463A                           ,2023-09-11,,9,226.94,oos?
+BP,108620234,Turn14 Distribution,AR8184XL                        ,F121B                           ,2023-09-11,,9,390.75,oos?
+BP,108620234,Turn14 Distribution,AR8184XR                        ,F121B                           ,2023-09-11,,9,390.75,oos?
+BP,108621309,Turn14 Distribution,JBR544XL                        ,C493B                           ,2023-09-11,,9,173.64,oos?
+BP,108621309,Turn14 Distribution,JBR544XR                        ,C493B                           ,2023-09-11,,9,173.64,oos?
+BP,108620293,Jegs,S2778                           ,T051C                           ,2023-09-11,,9,1917.87,oos?
+BP,108620908,Turn14 Distribution,EBR1649EVC                      ,W103D                           ,2023-09-11,,9,341.4,oos?
+BP,108620908,Turn14 Distribution,EBR1650EVC                      ,W171C                           ,2023-09-11,,9,341.4,oos?
+BP,108621082,Summit Racing,EBR1699EVC                      ,U283C                           ,2023-09-11,,9,172.77,oos?
+BP,108618140,Summit Racing,JBR1786XL                       ,P222F                           ,2023-09-10,,10,255.65,oos?
+BP,108618140,Summit Racing,JBR1786XR                       ,P222F                           ,2023-09-10,,10,255.65,oos?
+BP,108618140,Summit Racing,JBR1788XL                       ,P202B                           ,2023-09-10,,10,255.65,oos?
+BP,108618140,Summit Racing,JBR1788XR                       ,P202B                           ,2023-09-10,,10,255.65,oos?
+BP,108618140,Summit Racing,Z23-2045                        ,M332C                           ,2023-09-10,,10,255.65,oos?
+BP,108618444,Jegs,S2576                           ,S321F                           ,2023-09-10,,10,181.76,oos?
+BP,108619460,Summit Racing,Z23-1903                        ,M145F                           ,2023-09-11,,10,69.66,oos?
+BP,108619475,Summit Racing,S15092                          ,V471B                           ,2023-09-11,,10,238.32,oos?
+BP,108617830,Summit Racing,AR8184XL                        ,F121B                           ,2023-09-11,2023-07-20,11,450.69,replenished
+BP,108617830,Summit Racing,AR8184XR                        ,F121B                           ,2023-09-11,2023-07-20,11,450.69,replenished
+BP,108617637,Jegs,AR8396XR                        ,H523A                           ,2023-09-10,,11,246.4,oos?
+BP,108617318,Jegs,AR8658XL                        ,R391B                           ,2023-09-09,2023-07-20,11,196.56,replenished
+BP,108617318,Jegs,AR8658XR                        ,R391B                           ,2023-09-09,,11,196.56,oos?
+BP,108616850,Summit Racing,JBR1787XL                       ,P202A                           ,2023-09-09,,11,187.8,oos?
+BP,108616850,Summit Racing,JBR1787XR                       ,P202A                           ,2023-09-09,,11,187.8,oos?
+BP,108616850,Summit Racing,Z23-2045                        ,M332C                           ,2023-09-09,2023-07-20,11,187.8,replenished
+BP,108620283,Summit Racing,17-2179                         ,K513H                           ,2023-09-11,,11,58.91,oos?
+BP,108615057,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-08,,12,253.97,oos?
+BP,108614575,Summit Racing,JBR1738XPR                      ,D521B                           ,2023-09-08,,12,93.44,oos?
+BP,108614665,Jegs,S5400A                          ,S463A                           ,2023-09-08,,12,226.94,oos?
+BP,108614564,Jegs,JBR1789XL                       ,P222A                           ,2023-09-08,,12,232.42,oos?
+BP,108614564,Jegs,JBR1789XR                       ,P222A                           ,2023-09-08,,12,232.42,oos?
+BP,108615915,Summit Racing,JBR307XL                        ,H494D                           ,2023-09-08,,12,332.74,oos?
+BP,108615915,Summit Racing,JBR307XR                        ,H494D                           ,2023-09-08,,12,332.74,oos?
+BP,108615607,Turn14 Distribution,AR84104XL                       ,V263B                           ,2023-09-08,,12,177.2,oos?
+BP,108615607,Turn14 Distribution,AR84104XR                       ,V263B                           ,2023-09-08,,12,177.2,oos?
+BP,108615692,Turn14 Distribution,17-2302                         ,L033A                           ,2023-09-08,,12,122.72,oos?
+BP,108615692,Turn14 Distribution,JBR1908EVC                      ,U342E                           ,2023-09-08,,12,122.72,oos?
+BP,108615125,Summit Racing,AR8539XL                        ,H521D                           ,2023-09-08,,12,668.9,oos?
+BP,108615125,Summit Racing,AR8539XR                        ,H521D                           ,2023-09-08,,12,668.9,oos?
+BP,108615125,Summit Racing,JBR1389XL                       ,H011A                           ,2023-09-08,,12,668.9,oos?
+BP,108615125,Summit Racing,JBR1389XR                       ,H011A                           ,2023-09-08,,12,668.9,oos?
+BP,108615256,Summit Racing,AR84104XL                       ,V263B                           ,2023-09-08,,12,190.67,oos?
+BP,108615256,Summit Racing,AR84104XR                       ,V263B                           ,2023-09-08,,12,190.67,oos?
+BP,108615530,Turn14 Distribution,EBR898                          ,B613B                           ,2023-09-08,,12,110.27,oos?
+BP,108614288,Summit Racing,Z23-1646                        ,M323C                           ,2023-09-07,,13,129.52,oos?
+BP,108613494,Turn14 Distribution,17-2036                         ,K141E                           ,2023-09-07,,13,189.87,oos?
+BP,108613494,Turn14 Distribution,JBR1721EVC                      ,U162A                           ,2023-09-07,,13,189.87,oos?
+BP,108613494,Turn14 Distribution,JBR1750EVC                      ,U242D                           ,2023-09-07,,13,189.87,oos?
+BP,108612764,ECS Tuning LLC,EBR898                          ,B613B                           ,2023-09-07,,13,219.98,oos?
+BP,108612509,Jegs,B659                            ,K622F                           ,2023-09-07,,13,13.44,oos?
+BP,108627504,Summit Racing,S1830                           ,S301A                           ,2023-09-14,,13,986.88,oos?
+BP,108611156,Jegs,AR82203XR                       ,P202G                           ,2023-09-06,,14,456.57,oos?
+BP,108610196,Summit Racing,AR85125XL                       ,J582B                           ,2023-09-06,,14,814.13,oos?
+BP,108610196,Summit Racing,AR85125XR                       ,J582B                           ,2023-09-06,,14,814.13,oos?
+BP,108610200,Jegs,EBR860EVC                       ,W013A                           ,2023-09-06,,14,151.67,oos?
+BP,108610200,Jegs,Z23-847                         ,M772A                           ,2023-09-06,,14,151.67,oos?
+BP,108611111,Summit Racing,Z23-1850                        ,M331B                           ,2023-09-06,,14,114.44,oos?
+BP,108611859,Jegs,S4894                           ,T101A                           ,2023-09-06,,14,229.04,oos?
+BP,108609202,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-05,,15,253.97,oos?
+BP,108609707,Turn14 Distribution,AR85135                         ,Q191D                           ,2023-09-05,2023-07-21,15,100.96,replenished
+BP,108609717,Jegs,B593                            ,K571E                           ,2023-09-05,2023-07-22,15,38.38,replenished
+BP,108609117,Turn14 Distribution,BH00115                         ,B257E                           ,2023-09-05,,15,92.4,oos?
+BP,108609031,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-05,,15,253.97,oos?
+BP,108609108,Jegs,AR8658XL                        ,R391B                           ,2023-09-05,,15,213.39,oos?
+BP,108609108,Jegs,AR8658XR                        ,R391B                           ,2023-09-05,,15,213.39,oos?
+BP,108608800,Summit Racing,S15092                          ,V471B                           ,2023-09-05,,15,457.72,oos?
+BP,108608800,Summit Racing,S6274                           ,S222E                           ,2023-09-05,,15,457.72,oos?
+BP,108608801,Summit Racing,EBR1037XL                       ,E022C                           ,2023-09-05,2023-07-22,15,182.25,replenished
+BP,108608801,Summit Racing,EBR1037XR                       ,E022C                           ,2023-09-05,2023-07-22,15,182.25,replenished
+BP,108607579,Summit Racing,JBR1738XPR                      ,D521B                           ,2023-09-05,,16,228.07,oos?
+BP,108606794,Jegs,AR85173XL                       ,P222D                           ,2023-09-04,,16,371.99,oos?
+BP,108606794,Jegs,AR85173XR                       ,P222D                           ,2023-09-04,,16,371.99,oos?
+BP,108606794,Jegs,AR85201XL                       ,E142A                           ,2023-09-04,,16,371.99,oos?
+BP,108606794,Jegs,AR85201XR                       ,E142A                           ,2023-09-04,,16,371.99,oos?
+BP,108607047,Jegs,AR8396XR                        ,H523A                           ,2023-09-05,,16,246.4,oos?
+BP,108606698,Jegs,S7140                           ,T251D                           ,2023-09-04,,16,396.58,oos?
+BP,108606700,Jegs,S3336                           ,T071G                           ,2023-09-04,,16,456.61,oos?
+BP,108606379,Jegs,S5486                           ,T301E                           ,2023-09-04,,16,421.19,oos?
+BP,108606687,Turn 5 Inc,Z23-1718                        ,M511D                           ,2023-09-04,,16,253.97,oos?
+BP,108606227,Summit Racing,BH00006                         ,B251C                           ,2023-09-04,,16,50.75,oos?
+BP,108603434,Jegs,S5400A                          ,S463A                           ,2023-09-02,,18,226.94,oos?
+BP,108604604,Summit Racing,S5486                           ,T301E                           ,2023-09-03,,18,607.54,oos?
+BP,108604081,Jegs,S5486                           ,T301E                           ,2023-09-02,,18,421.19,oos?
+BP,108604409,Turn14 Distribution,AR8374XL                        ,C201A                           ,2023-09-03,,18,287.96,oos?
+BP,108604409,Turn14 Distribution,AR8374XR                        ,C201B                           ,2023-09-03,,18,287.96,oos?
+BP,108604461,Turn 5 Inc,AR8387                          ,Q184A                           ,2023-09-03,,18,214.95,oos?
+BP,108602457,Summit Racing,L4747                           ,T482F                           ,2023-09-01,,19,139.48,oos?
+BP,108602462,Jegs,BH00043                         ,B254A                           ,2023-09-01,,19,63.34,oos?
+BP,108602561,Turn14 Distribution,S3320A                          ,S401E                           ,2023-09-01,,19,220.92,oos?
+BP,108601491,Jegs,17-2302                         ,L033A                           ,2023-09-01,,19,122.41,oos?
+BP,108602194,Jegs,Z26-1892                        ,M153E                           ,2023-09-01,2023-07-23,19,195.72,replenished
+BP,108601931,Turn14 Distribution,JBR1908XL                       ,E142D                           ,2023-09-01,,19,139.53,oos?
+BP,108601931,Turn14 Distribution,JBR1908XR                       ,E142D                           ,2023-09-01,,19,139.53,oos?
+BP,108601284,Turn14 Distribution,Z23-2176                        ,M282F                           ,2023-09-01,,20,190.98,oos?
+BP,108599472,Turn14 Distribution,S4894                           ,T101A                           ,2023-08-31,,20,396.92,oos?
+BP,108597443,Summit Racing,BH00172                         ,E262A                           ,2023-08-30,,21,466.81,oos?
+BP,108597469,Summit Racing,JBR1740XL                       ,J592A                           ,2023-08-30,2023-07-24,21,101.74,replenished
+BP,108597469,Summit Racing,JBR1740XR                       ,J592A                           ,2023-08-30,,21,101.74,oos?
+BP,108597497,Summit Racing,EBR1605EVC                      ,W083E                           ,2023-08-30,,21,875.88,oos?
+BP,108597681,Jegs,AR8144XL                        ,H031A                           ,2023-08-30,,21,298.76,oos?
+BP,108597681,Jegs,AR8145XR                        ,H031A                           ,2023-08-30,,21,298.76,oos?
+BP,108597681,Jegs,AR8146XL                        ,F602B                           ,2023-08-30,,21,298.76,oos?
+BP,108597681,Jegs,AR8146XR                        ,F602B                           ,2023-08-30,2023-07-24,21,298.76,replenished
+BP,108595816,Summit Racing,BH00067                         ,B254L                           ,2023-08-29,,22,104.37,oos?
+BP,108596028,Summit Racing,S5486                           ,T301E                           ,2023-08-29,,22,607.54,oos?
+BP,108594904,Summit Racing,B228                            ,K253C                           ,2023-08-29,2023-07-24,22,142.03,replenished
+BP,108595472,Jegs,AR84104XL                       ,V263B                           ,2023-08-29,,22,184.45,oos?
+BP,108595472,Jegs,AR84104XR                       ,V263B                           ,2023-08-29,,22,184.45,oos?
+BP,108595472,Jegs,Z36-2174                        ,P183B                           ,2023-08-29,,22,184.45,oos?
+BP,108592676,Jegs,17-2174                         ,K181B                           ,2023-08-28,,23,150.25,oos?
+BP,108592676,Jegs,AR84104EVC                      ,U303F                           ,2023-08-28,,23,150.25,oos?
+BP,108592647,Turn14 Distribution,BH00172                         ,E262A                           ,2023-08-28,,23,64.51,oos?
+BP,108592370,Summit Racing,BH00103                         ,B256H                           ,2023-08-28,,23,97.27,oos?
+BP,108591759,Summit Racing,S15092                          ,V471B                           ,2023-08-28,2023-07-24,23,238.32,replenished
+BP,108591745,Summit Racing,S4796                           ,T481C                           ,2023-08-28,2023-07-24,23,206.82,replenished
+HK,108591747,Summit Racing,Z36-368                         ,P184F                           ,2023-08-28,,23,85.68,oos?
+BP,108593994,Summit Racing,EBR1207XL                       ,C521A                           ,2023-08-28,,23,202.64,oos?
+BP,108593994,Summit Racing,EBR1207XR                       ,C521A                           ,2023-08-28,,23,202.64,oos?
+BP,108593129,Summit Racing,JBR1787XL                       ,P202A                           ,2023-08-28,,23,289.86,oos?
+BP,108593129,Summit Racing,JBR1787XR                       ,P202A                           ,2023-08-28,,23,289.86,oos?
+BP,108593361,Jegs,PSA-1124                        ,W473D                           ,2023-08-28,,23,136.56,oos?
+BP,108593708,Jegs,Z36-2300                        ,P195F                           ,2023-08-28,,23,283.87,oos?
+BP,108590262,Summit Racing,Z23-1646                        ,M323C                           ,2023-08-27,,24,160.83,oos?
+BP,108589831,Summit Racing,BH00067                         ,B254L                           ,2023-08-27,,25,104.37,oos?
+BP,108589832,Summit Racing,S1694                           ,T281B                           ,2023-08-27,,25,104.49,oos?
+BP,108588678,Summit Racing,AR83079XL                       ,F061B                           ,2023-08-26,,25,252.37,oos?
+BP,108588678,Summit Racing,AR83079XR                       ,F061B                           ,2023-08-26,,25,252.37,oos?
+BP,108588780,Summit Racing,AR85201XL                       ,E142A                           ,2023-08-26,,25,136.69,oos?
+BP,108588780,Summit Racing,AR85201XR                       ,E142A                           ,2023-08-26,,25,136.69,oos?
+BP,108589134,Turn14 Distribution,AR85199XPR                      ,F081A                           ,2023-08-26,,25,356.02,oos?
+BP,108587731,Jegs,S4378                           ,S251E                           ,2023-08-25,,26,106.69,oos?
+BP,108587845,Turn14 Distribution,S5486                           ,T301E                           ,2023-08-25,,26,197.12,oos?
+BP,108588052,Jegs,S15020                          ,S233G                           ,2023-08-25,,26,325.8,oos?
+BP,108586797,Jegs,S2576                           ,S321F                           ,2023-08-25,,26,257.47,oos?
+BP,108587086,Jegs,BH00172                         ,E262A                           ,2023-08-25,,26,69.64,oos?
+BP,108587137,Summit Racing,AR85199XL                       ,F081A                           ,2023-08-25,,26,485.04,oos?
+BP,108587137,Summit Racing,AR85199XR                       ,F081A                           ,2023-08-25,,26,485.04,oos?
+BP,108586712,Jegs,Z26-1892                        ,M153E                           ,2023-08-25,,26,89.67,oos?
+BP,108585996,Turn14 Distribution,JBR1908XL                       ,E142D                           ,2023-08-25,2023-07-24,27,139.53,replenished
+BP,108585996,Turn14 Distribution,JBR1908XR                       ,E142D                           ,2023-08-25,,27,139.53,oos?
+BP,108585093,Jegs,S5522                           ,S193E                           ,2023-08-24,,27,199.09,oos?
+BP,108585357,Summit Racing,JBR1778XL                       ,J542C                           ,2023-08-24,,27,319.77,oos?
+BP,108585357,Summit Racing,JBR1778XR                       ,J542C                           ,2023-08-24,,27,319.77,oos?
+BP,108585665,Jegs,BH00130                         ,B257K                           ,2023-08-25,,27,99.08,oos?
+BP,108585730,Turn14 Distribution,16-1107                         ,K172G                           ,2023-08-25,,27,434.08,oos?
+BP,108584002,Jegs,EBR1699XPR                      ,E142E                           ,2023-08-23,,28,201.57,oos?
+BP,108583314,Summit Racing,AR84104EVC                      ,U303F                           ,2023-08-23,,28,150.25,oos?
+BP,108583463,Jegs,S5472                           ,S433B                           ,2023-08-23,,28,212.81,oos?
+HK,108581721,Summit Racing,Z23-2035                        ,M333D                           ,2023-08-23,,29,124.88,oos?
+HK,108581484,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,29,231.35,oos?
+HK,108581485,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,29,231.35,oos?
+BP,108581391,Jegs,EBR1207XL                       ,C521A                           ,2023-08-22,,29,532.29,oos?
+BP,108581391,Jegs,EBR1207XR                       ,C521A                           ,2023-08-22,,29,532.29,oos?
+BP,108581391,Jegs,S6650                           ,S183A                           ,2023-08-22,,29,532.29,oos?
+HK,108581482,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,29,231.35,oos?
+HK,108581483,Summit Racing,S5400A                          ,S463A                           ,2023-08-22,,29,231.35,oos?
+BP,108580091,Turn14 Distribution,JBR1789EVC                      ,U341A                           ,2023-08-21,,30,166.17,oos?
+BP,108578368,Summit Racing,BH00103                         ,B256H                           ,2023-08-21,,30,97.27,oos?
+BP,108577764,Jegs,JBR1789XL                       ,P222A                           ,2023-08-21,,31,403.84,oos?
+BP,108577764,Jegs,JBR1789XR                       ,P222A                           ,2023-08-21,,31,403.84,oos?
+BP,108577108,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-08-21,,31,252.43,oos?
+BP,108576982,Jegs,BH00162                         ,B259C                           ,2023-08-20,,31,131.95,oos?
+BP,108576640,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-08-20,,31,252.43,oos?
+BP,108576810,Turn 5 Inc,B569                            ,K263A                           ,2023-08-20,,31,8.07,oos?
+BP,108576169,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-08-21,,31,252.43,oos?
+BP,108574892,Summit Racing,L4256                           ,S131D                           ,2023-08-29,,32,28.9,oos?
+BP,108574486,Jegs,S2576                           ,S321F                           ,2023-08-19,,32,181.76,oos?
+BP,108574777,Jegs,S3336                           ,T071G                           ,2023-08-19,,32,245.13,oos?
+BP,108573917,Summit Racing,BH00029                         ,B253B                           ,2023-08-18,2023-07-25,33,88.64,replenished
+BP,108573476,Summit Racing,JBR1179XL                       ,P222B                           ,2023-08-18,2023-07-25,33,280.58,replenished
+BP,108573476,Summit Racing,JBR1179XR                       ,P222B                           ,2023-08-18,,33,280.58,oos?
+BP,108573852,Jegs,S4702                           ,S243C                           ,2023-08-18,,33,208.82,oos?
+BP,108572585,Summit Racing,S4796                           ,T481C                           ,2023-08-29,,33,206.82,oos?
+BP,108572469,Summit Racing,S5472                           ,S433B                           ,2023-08-18,,33,216.68,oos?
+BP,108570861,Jegs,S6992                           ,T061C                           ,2023-08-17,,34,214.48,oos?
+BP,108571541,Jegs,S4746                           ,T251F                           ,2023-08-17,,34,167.44,oos?
+BP,108571545,Jegs,S5472                           ,S433B                           ,2023-08-17,,34,212.81,oos?
+BP,108570407,Turn 5 Inc,AR8396                          ,W334D                           ,2023-08-17,,34,230.58,oos?
+BP,108570840,Jegs,S4816                           ,T251E                           ,2023-08-17,,34,203.2,oos?
+BP,108570329,Summit Racing,S4792                           ,S221A                           ,2023-08-17,,34,996.89,oos?
+BP,108568935,Turn14 Distribution,AR84104XL                       ,V263B                           ,2023-08-16,,35,450.31,oos?
+BP,108568935,Turn14 Distribution,AR84104XR                       ,V263B                           ,2023-08-16,,35,450.31,oos?
+BP,108569920,Turn14 Distribution,S5118A                          ,S323B                           ,2023-08-17,,35,168.61,oos?
+BP,108568655,Summit Racing,AD8620P                         ,G613F                           ,2023-08-16,,35,424.96,oos?
+BP,108568934,Summit Racing,EBR1037XL                       ,E022C                           ,2023-08-16,,35,182.25,oos?
+BP,108568934,Summit Racing,EBR1037XR                       ,E022C                           ,2023-08-16,,35,182.25,oos?
+BP,108567941,Jegs,BH00130                         ,B257K                           ,2023-08-16,,35,99.08,oos?
+BP,108568136,Jegs,S2074                           ,S292H                           ,2023-08-16,,35,177.37,oos?
+BP,108566690,Turn14 Distribution,BH00075                         ,B255E                           ,2023-08-15,,36,90.49,oos?
+BP,108567724,Turn 5 Inc,AR83090XPR                      ,P451A                           ,2023-08-16,,36,699.04,oos?
+BP,108566476,Summit Racing,Z23-2180                        ,M313C                           ,2023-08-15,2023-07-26,36,195.21,replenished
+BP,108566817,Turn 5 Inc,AR83090XPR                      ,P451A                           ,2023-08-15,,36,731.66,oos?
+BP,108565790,Summit Racing,EBR1652XL                       ,J492E                           ,2023-08-15,,36,969.14,oos?
+BP,108565790,Summit Racing,EBR1652XR                       ,J492E                           ,2023-08-15,,36,969.14,oos?
+BP,108565295,Jegs,S3336                           ,T071G                           ,2023-08-15,,36,646.62,oos?
+BP,108565295,Jegs,S7140                           ,T251D                           ,2023-08-15,,36,646.62,oos?
+BP,108565796,Summit Racing,JBR1550                         ,F163D                           ,2023-08-15,,36,185.84,oos?
+BP,108565934,Jegs,Z23-618                         ,M731F                           ,2023-08-15,,36,265.26,oos?
+BP,108565936,Jegs,S6142                           ,S452A                           ,2023-08-15,2023-07-26,36,836.85,replenished
+BP,108565936,Jegs,S6956                           ,S413F                           ,2023-08-15,,36,836.85,oos?
+BP,108566113,Jegs,Z23-1075                        ,M821A                           ,2023-08-15,,36,279.99,oos?
+BP,108563448,Jegs,S5472                           ,S433B                           ,2023-08-14,,37,212.81,oos?
+BP,108563202,Summit Racing,AR82155                         ,Q091B                           ,2023-08-14,,37,865.71,oos?
+BP,108563202,Summit Racing,BH00130                         ,B257K                           ,2023-08-14,,37,865.71,oos?
+HK,108562406,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-14,,37,68.18,oos?
+HK,108562400,Summit Racing,S4918ABLK                       ,S412F                           ,2023-08-14,,37,1069.2,oos?
+BP,108561961,Summit Racing,17-1808                         ,L041E                           ,2023-08-14,,38,198.56,oos?
+BP,108561961,Summit Racing,JBR1787                         ,Q244B                           ,2023-08-14,,38,198.56,oos?
+BP,108560463,Jegs,S4816                           ,T251E                           ,2023-08-13,2023-07-27,38,414.24,replenished
+BP,108560100,Summit Racing,BH00161                         ,B259B                           ,2023-08-13,,39,140.97,oos?
+BP,108560093,Summit Racing,BH00030                         ,B253C                           ,2023-08-13,,39,492.35,oos?
+BP,108559582,Jegs,AR85181XL                       ,P413C                           ,2023-08-12,,39,259.89,oos?
+BP,108559582,Jegs,AR85181XR                       ,P413C                           ,2023-08-12,,39,259.89,oos?
+BP,108559582,Jegs,Z23-1833A                       ,M822B                           ,2023-08-12,,39,259.89,oos?
+BP,108558847,Turn14 Distribution,BH00172                         ,E262A                           ,2023-08-12,,39,64.51,oos?
+BP,108554834,Turn14 Distribution,Z36-1455                        ,P143D                           ,2023-08-10,,41,436.11,oos?
+BP,108554360,Summit Racing,Z23-1091                        ,M823D                           ,2023-08-10,,41,674.38,oos?
+BP,108554358,Jegs,Z36-2250                        ,P372A                           ,2023-08-10,,41,353.92,oos?
+BP,108552339,Jegs,AR86004XL                       ,V262C                           ,2023-08-09,,42,316.47,oos?
+BP,108552339,Jegs,AR86004XR                       ,V262C                           ,2023-08-09,,42,316.47,oos?
+BP,108553343,Summit Racing,JBR1179XL                       ,P222B                           ,2023-08-09,,42,302.87,oos?
+BP,108553343,Summit Racing,JBR1179XR                       ,P222B                           ,2023-08-09,,42,302.87,oos?
+BP,108551202,Summit Racing,BH00006                         ,B251C                           ,2023-08-08,,43,50.75,oos?
+BP,108550851,Summit Racing,EBR898XL                        ,H191B                           ,2023-08-08,,43,187.98,oos?
+BP,108550851,Summit Racing,EBR898XR                        ,H191B                           ,2023-08-08,,43,187.98,oos?
+BP,108550851,Summit Racing,Z26-1760                        ,M202A                           ,2023-08-08,,43,187.98,oos?
+BP,108550548,Jegs,JBR1149XR                       ,D531A                           ,2023-08-08,,43,791.13,oos?
+BP,108550548,Jegs,JBR1150XL                       ,D531A                           ,2023-08-08,,43,791.13,oos?
+BP,108550548,Jegs,S3336                           ,T071G                           ,2023-08-08,,43,791.13,oos?
+BP,108550664,Turn14 Distribution,EBR666XL                        ,H621D                           ,2023-08-08,,43,120.82,oos?
+BP,108550664,Turn14 Distribution,EBR666XR                        ,H621D                           ,2023-08-08,,43,120.82,oos?
+BP,108550664,Turn14 Distribution,Z26-394                         ,M193C                           ,2023-08-08,,43,120.82,oos?
+BP,108549246,Jegs,17-976B                         ,J211D                           ,2023-08-08,,43,156.89,oos?
+BP,108549881,Summit Racing,AR8374XL                        ,C201A                           ,2023-08-08,,43,306.11,oos?
+BP,108549881,Summit Racing,AR8374XR                        ,C201B                           ,2023-08-08,,43,306.11,oos?
+BP,108547521,Summit Racing,Z23-1646                        ,M323C                           ,2023-08-07,,44,160.83,oos?
+BP,108546978,Summit Racing,SW-0510                         ,A203J                           ,2023-08-07,,44,196.85,oos?
+BP,108547006,Jegs,S2576                           ,S321F                           ,2023-08-07,,44,181.76,oos?
+BP,108547250,Jegs,JBR1778XR                       ,J542C                           ,2023-08-07,,44,318.29,oos?
+BP,108544947,Jegs,JBR1789XL                       ,P222A                           ,2023-08-07,,45,403.84,oos?
+BP,108544947,Jegs,JBR1789XR                       ,P222A                           ,2023-08-07,,45,403.84,oos?
+BP,108543332,Jegs,BH00172                         ,E262A                           ,2023-08-05,,46,69.64,oos?
+BP,108544579,Summit Racing,BH00096                         ,B256E                           ,2023-08-07,,46,105.39,oos?
+BP,108582917,Turn14 Distribution,S4702                           ,S243C                           ,2023-08-23,,46,391.0,oos?
+BP,108542732,Jegs,L4390                           ,S131G                           ,2023-08-05,,47,186.44,oos?
+BP,108541396,Summit Racing,AR84101XL                       ,V244B                           ,2023-08-07,,47,461.88,oos?
+BP,108541396,Summit Racing,AR84101XR                       ,V244B                           ,2023-08-07,,47,461.88,oos?
+BP,108541396,Summit Racing,EBR1204EVC                      ,W131D                           ,2023-08-07,,47,461.88,oos?
+BP,108541396,Summit Racing,EBR898EVC                       ,W023E                           ,2023-08-07,,47,461.88,oos?
+BP,108541396,Summit Racing,SHDK085                         ,V484B                           ,2023-08-07,,47,461.88,oos?
+BP,108541005,Jegs,S4882                           ,S212E                           ,2023-08-04,,47,156.91,oos?
+BP,108539925,Summit Racing,ESP2168                         ,W313A                           ,2023-08-03,,48,152.11,oos?
+BP,108539832,Jegs,S6142                           ,S452A                           ,2023-08-03,,48,821.99,oos?
+BP,108539832,Jegs,S6956                           ,S413F                           ,2023-08-03,,48,821.99,oos?
+BP,108538877,Turn14 Distribution,BH00129                         ,B257J                           ,2023-08-03,,48,301.38,oos?
+BP,108537486,Summit Racing,JBR509XPR                       ,H503A                           ,2023-08-02,,49,94.47,oos?
+BP,108535924,Jegs,S6376                           ,S162F                           ,2023-08-02,,49,242.82,oos?
+BP,108536012,Jegs,JBR1908XL                       ,E142D                           ,2023-08-02,,49,234.77,oos?
+BP,108536012,Jegs,JBR1908XR                       ,E142D                           ,2023-08-02,,49,234.77,oos?
+BP,108535055,Jegs,S5472                           ,S433B                           ,2023-08-02,,50,212.81,oos?
+BP,108585058,Summit Racing,S5306                           ,S401A                           ,2023-08-24,,50,677.58,oos?
+BP,108578760,Summit Racing,17-1118                         ,K182H                           ,2023-08-21,,50,149.83,oos?
+BP,108530698,Jegs,AR85201XL                       ,E142A                           ,2023-08-01,,50,321.08,oos?
+BP,108530698,Jegs,AR85201XR                       ,E142A                           ,2023-08-01,,50,321.08,oos?
+BP,108530871,Summit Racing,S1734                           ,S331D                           ,2023-08-01,,50,332.91,oos?
+BP,108528174,Jegs,JBR1791XL                       ,P223A                           ,2023-07-31,,51,232.82,oos?
+BP,108528174,Jegs,JBR1791XR                       ,P223A                           ,2023-07-31,,51,232.82,oos?
+BP,108532745,Turn14 Distribution,Z36-2250                        ,P372A                           ,2023-08-01,,51,72.65,oos?
+BP,108532746,Turn14 Distribution,Z36-2250                        ,P372A                           ,2023-08-01,,51,72.65,oos?
+BP,108539510,Summit Racing,AR86002                         ,Q201F                           ,2023-08-03,,51,101.99,oos?
+BP,108527566,Summit Racing,B989                            ,K053C                           ,2023-07-31,,52,26.63,oos?
+BP,108526223,Summit Racing,JBR1908XPR                      ,E142D                           ,2023-07-30,,52,145.88,oos?
+BP,108527412,Turn14 Distribution,JBR1789XL                       ,P222A                           ,2023-07-31,,52,229.81,oos?
+BP,108527412,Turn14 Distribution,JBR1789XR                       ,P222A                           ,2023-07-31,,52,229.81,oos?
+BP,108524425,Jegs,EBR1037XL                       ,E022C                           ,2023-07-28,,54,411.86,oos?
+BP,108524425,Jegs,EBR1037XR                       ,E022C                           ,2023-07-28,,54,411.86,oos?
+BP,108523403,Summit Racing,BH00116                         ,B257F                           ,2023-07-28,2023-07-31,54,105.39,replenished
+BP,108614852,Jegs,S2088                           ,T341I                           ,2023-09-08,2023-07-31,54,165.08,replenished
+BP,108518907,Summit Racing,S4816                           ,T251E                           ,2023-07-26,,56,207.22,oos?
+BP,108518437,Turn14 Distribution,Z23-2144                        ,M533A                           ,2023-07-26,,56,103.14,oos?
+BP,108519664,Turn14 Distribution,BH00043                         ,B254A                           ,2023-07-26,,56,58.67,oos?
+BP,108516229,Summit Racing,Z23-1182                        ,M841F                           ,2023-07-25,,57,263.46,oos?
+BP,108517087,Turn 5 Inc,S5396YLW                        ,S163C                           ,2023-07-25,,57,355.98,oos?
+BP,108517087,Turn 5 Inc,S5404YLW                        ,S163D                           ,2023-07-25,,57,355.98,oos?
+BP,108514694,Jegs,JBR1908XL                       ,E142D                           ,2023-07-24,,58,234.77,oos?
+BP,108514694,Jegs,JBR1908XR                       ,E142D                           ,2023-07-24,,58,234.77,oos?
+HK,108513769,Turn14 Distribution,BH00116                         ,B257F                           ,2023-07-24,2023-07-31,58,91.37,replenished
+BP,108597133,Summit Racing,S5400A                          ,S463A                           ,2023-08-30,,58,231.35,oos?
+BP,108511281,Turn 5 Inc,AR86002                         ,Q201F                           ,2023-07-22,2023-07-31,60,158.13,replenished
+BP,108508556,Turn14 Distribution,AR85154XL                       ,D532A                           ,2023-07-21,,61,158.03,oos?
+BP,108508658,Jegs,S4606A                          ,S252F                           ,2023-07-21,,61,108.08,oos?
+BP,108508540,Jegs,AR85154XL                       ,D532A                           ,2023-07-21,,61,159.83,oos?
+BP,108508541,Jegs,AR85154XL                       ,D532A                           ,2023-07-21,,61,159.83,oos?
+BP,108508547,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,61,646.48,oos?
+BP,108508548,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,61,323.24,oos?
+BP,108508549,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,2023-07-31,61,323.24,replenished
+BP,108508550,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,61,1292.96,oos?
+BP,108508550,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,61,1292.96,oos?
+BP,108508551,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,61,484.86,oos?
+BP,108508552,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,61,646.48,oos?
+BP,108508552,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,61,646.48,oos?
+BP,108508553,Meyer Distributing,AR85154XL                       ,D532A                           ,2023-07-21,,61,646.48,oos?
+BP,108508553,Meyer Distributing,AR85154XR                       ,D532A                           ,2023-07-21,,61,646.48,oos?
+BP,108506455,Jegs,L6992                           ,T143I                           ,2023-07-20,,62,194.8,oos?
+BP,108506461,Summit Racing,BH00005                         ,B251B                           ,2023-07-20,,62,452.41,oos?
+BP,108501708,Summit Racing,EBR464XL                        ,P433D                           ,2023-08-16,,64,426.84,oos?
+BP,108501708,Summit Racing,EBR465XR                        ,P433D                           ,2023-08-16,,64,426.84,oos?
+BP,108501708,Summit Racing,JBR1597XL                       ,J591B                           ,2023-08-16,,64,426.84,oos?
+BP,108501708,Summit Racing,JBR1597XR                       ,J591B                           ,2023-08-16,,64,426.84,oos?
+BP,108501708,Summit Racing,Z23-394                         ,M501B                           ,2023-08-16,,64,426.84,oos?
+BP,108492536,Summit Racing,S5472                           ,S433B                           ,2023-08-29,,68,763.75,oos?
+HK,108522900,Jegs,S4390                           ,S303F                           ,2023-07-28,,68,100.72,oos?
+BP,108522903,Jegs,S3194                           ,S271B                           ,2023-07-28,,68,193.48,oos?
+BP,108522901,Jegs,S4390                           ,S303F                           ,2023-07-28,,68,100.72,oos?
+HK,108522902,Jegs,S4390                           ,S303F                           ,2023-07-28,,68,100.72,oos?
+BP,108490837,Summit Racing,JBR1908XL                       ,E142D                           ,2023-08-29,,69,277.26,oos?
+BP,108490837,Summit Racing,JBR1908XR                       ,E142D                           ,2023-08-29,,69,277.26,oos?
+BP,108475619,Jegs,S5472                           ,S433B                           ,2023-08-10,,71,583.51,oos?
+BP,108586916,Jegs,S5486                           ,T301E                           ,2023-08-25,,75,208.38,oos?
+BP,108572829,Summit Racing,BH00140                         ,B258B                           ,2023-08-18,2023-08-01,82,548.1,replenished
+BP,108509883,Summit Racing,Z23-1182                        ,M841F                           ,2023-07-21,2023-08-01,82,134.26,replenished
+BP,108428092,Summit Racing,B228                            ,K253C                           ,2023-08-09,2023-08-01,83,40.23,replenished
+BP,108404117,Summit Racing,Z23-2144                        ,M533A                           ,2023-08-10,,94,53.91,oos?
+BP,108397700,Summit Racing,EBR1007EVC-HC                   ,N183B                           ,2023-08-29,,97,554.79,oos?
+BP,108395046,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,,98,72.97,oos?
+BP,108388809,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,,101,105.13,oos?
+BP,108368097,Summit Racing,17-2308                         ,L053E                           ,2023-08-29,,110,250.83,oos?
+BP,108368097,Summit Racing,AR82206EVC                      ,U342F                           ,2023-08-29,,110,250.83,oos?
+BP,108506967,Summit Racing,AR84103XL                       ,V263C                           ,2023-07-20,2023-08-01,111,1400.55,replenished
+BP,108506967,Summit Racing,AR84103XR                       ,V263C                           ,2023-07-20,,111,1400.55,oos?
+BP,108506968,Summit Racing,AR84103XL                       ,V263C                           ,2023-07-20,2023-08-01,111,560.22,replenished
+BP,108506968,Summit Racing,AR84103XR                       ,V263C                           ,2023-07-20,,111,560.22,oos?
+BP,108506969,Summit Racing,AR84103XL                       ,V263C                           ,2023-07-20,,111,1400.55,oos?
+BP,108506969,Summit Racing,AR84103XR                       ,V263C                           ,2023-07-20,,111,1400.55,oos?
+BP,108506969,Summit Racing,Z36-2173                        ,P102C                           ,2023-07-20,,111,1400.55,oos?
+BP,108355867,Turn 5 Inc,BH00116                         ,B257F                           ,2023-07-28,,116,68.18,oos?
+BP,108354751,Summit Racing,JBR1788EVC                      ,U333B                           ,2023-07-24,,117,219.52,oos?
+BP,108352062,Summit Racing,JBR1789EVC                      ,U341A                           ,2023-08-29,,118,328.03,oos?
+BP,108339886,Turn 5 Inc,S5396YLW                        ,S163C                           ,2023-07-28,,123,297.55,oos?
+BP,108339886,Turn 5 Inc,S5404YLW                        ,S163D                           ,2023-07-28,,123,297.55,oos?
+BP,108335245,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,,125,68.18,oos?
+BP,108329770,Summit Racing,S4746                           ,T251F                           ,2023-07-20,,127,406.2,oos?
+BP,108330757,Jegs,S2576                           ,S321F                           ,2023-07-26,,127,181.76,oos?
+BP,108565194,Summit Racing,JBR1568XL                       ,G091B                           ,2023-08-15,,137,1596.56,oos?
+BP,108565194,Summit Racing,JBR1569XR                       ,G091B                           ,2023-08-15,,137,1596.56,oos?
+BP,108565194,Summit Racing,Z23-1586                        ,M883F                           ,2023-08-15,,137,1596.56,oos?
+BP,108292892,Turn 5 Inc,BH00116                         ,B257F                           ,2023-08-15,,143,68.18,oos?
+BP,108519178,Turn 5 Inc,Z36-976B                        ,P382B                           ,2023-07-26,,143,287.08,oos?
+HK,108580731,Summit Racing,S5486                           ,T301E                           ,2023-08-22,,152,563.45,oos?
+BP,108244652,Jegs,AR82197XL                       ,J594A                           ,2023-09-06,,161,629.08,oos?
+BP,108244652,Jegs,AR82197XR                       ,J594A                           ,2023-09-06,,161,629.08,oos?
+BP,108507078,Jegs,AR84103XL                       ,V263C                           ,2023-07-20,,169,455.43,oos?
+BP,108507078,Jegs,AR84103XR                       ,V263C                           ,2023-07-20,,169,455.43,oos?
+BP,108507078,Jegs,AR84104XL                       ,V263B                           ,2023-07-20,,169,455.43,oos?
+BP,108507078,Jegs,AR84104XR                       ,V263B                           ,2023-07-20,,169,455.43,oos?
+BP,108507078,Jegs,SW-1205                         ,D263L                           ,2023-07-20,,169,455.43,oos?
