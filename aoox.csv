@@ -1,15 +1,11 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108785589,Carparts.com,AR8228                          ,Q221E                           ,2023-12-04,,1,73.62,oos?
-BP,108783547,Amazon,B670                            ,K622B                           ,2023-12-02,,2,260.82,oos?
-BP,108783612,AutoZone,SW-0485                         ,A202J                           ,2023-12-02,,2,6.45,oos?
-BP,108783226,Jegs,S4378                           ,S251E                           ,2023-12-01,,3,255.41,oos?
-BP,108782609,Turn14 Distribution,PSA-1180                        ,W474L                           ,2023-12-01,,3,59.33,oos?
-BP,108782747,Turn14 Distribution,EBR1497XL                       ,J542D                           ,2023-12-01,,3,991.61,oos?
-BP,108782747,Turn14 Distribution,EBR1497XR                       ,J542D                           ,2023-12-01,,3,991.61,oos?
-BP,108782747,Turn14 Distribution,S6384                           ,S423D                           ,2023-12-01,,3,991.61,oos?
-BP,108778363,Turn 5 Inc,B1023                           ,K173E                           ,2023-11-29,,6,13.53,oos?
-BP,108775983,CarID,S5482                           ,S222D                           ,2023-11-28,,7,418.26,oos?
-BP,108746872,AutoZone,B670                            ,K622B                           ,2023-11-11,,23,128.19,oos?
-BP,108718119,Amazon,B973                            ,K243D                           ,2023-10-26,,39,177.36,oos?
-BP,108679843,AutoZone,JBR1738XL                       ,D521B                           ,2023-10-08,,57,330.27,oos?
-BP,108679843,AutoZone,JBR1738XR                       ,D521B                           ,2023-10-08,,57,330.27,oos?
+BP,108782609,Turn14 Distribution,PSA-1180                        ,W474L                           ,2023-12-01,,4,59.33,oos?
+BP,108782747,Turn14 Distribution,EBR1497XL                       ,J542D                           ,2023-12-01,,4,991.61,oos?
+BP,108782747,Turn14 Distribution,EBR1497XR                       ,J542D                           ,2023-12-01,,4,991.61,oos?
+BP,108782747,Turn14 Distribution,S6384                           ,S423D                           ,2023-12-01,,4,991.61,oos?
+BP,108778363,Turn 5 Inc,B1023                           ,K173E                           ,2023-11-29,,7,13.53,oos?
+BP,108775983,CarID,S5482                           ,S222D                           ,2023-11-28,,8,418.26,oos?
+BP,108746872,AutoZone,B670                            ,K622B                           ,2023-11-11,,24,128.19,oos?
+BP,108718119,Amazon,B973                            ,K243D                           ,2023-10-26,,40,177.36,oos?
+BP,108679843,AutoZone,JBR1738XL                       ,D521B                           ,2023-10-08,,58,330.27,oos?
+BP,108679843,AutoZone,JBR1738XR                       ,D521B                           ,2023-10-08,,58,330.27,oos?
