@@ -1,11 +1,3 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108782609,Turn14 Distribution,PSA-1180                        ,W474L                           ,2023-12-01,,4,59.33,oos?
-BP,108782747,Turn14 Distribution,EBR1497XL                       ,J542D                           ,2023-12-01,,4,991.61,oos?
-BP,108782747,Turn14 Distribution,EBR1497XR                       ,J542D                           ,2023-12-01,,4,991.61,oos?
-BP,108782747,Turn14 Distribution,S6384                           ,S423D                           ,2023-12-01,,4,991.61,oos?
-BP,108778363,Turn 5 Inc,B1023                           ,K173E                           ,2023-11-29,,7,13.53,oos?
-BP,108775983,CarID,S5482                           ,S222D                           ,2023-11-28,,8,418.26,oos?
-BP,108746872,AutoZone,B670                            ,K622B                           ,2023-11-11,,24,128.19,oos?
-BP,108718119,Amazon,B973                            ,K243D                           ,2023-10-26,,40,177.36,oos?
-BP,108679843,AutoZone,JBR1738XL                       ,D521B                           ,2023-10-08,,58,330.27,oos?
-BP,108679843,AutoZone,JBR1738XR                       ,D521B                           ,2023-10-08,,58,330.27,oos?
+BP,108789939,Turn14 Distribution,AR8396XL                        ,H523A                           ,2023-12-06,2023-10-08,3,243.63,replenished
+BP,108789939,Turn14 Distribution,AR8396XR                        ,H523A                           ,2023-12-06,2023-10-09,3,243.63,replenished
