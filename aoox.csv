@@ -1,3 +1,15 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108789939,Turn14 Distribution,AR8396XL                        ,H523A                           ,2023-12-06,2023-10-08,3,243.63,replenished
-BP,108789939,Turn14 Distribution,AR8396XR                        ,H523A                           ,2023-12-06,2023-10-09,3,243.63,replenished
+BP,108792251,Amazon,B154                            ,K221B                           ,2023-12-10,,2,33.87,oos?
+BP,108792154,Amazon-Callahan,X51015L                         ,V111E                           ,2023-12-10,2023-10-11,2,155.95,replenished
+BP,108792154,Amazon-Callahan,X51015R                         ,V111E                           ,2023-12-10,,2,155.95,oos?
+BP,108793173,Amazon,JBR1332XL                       ,E171B                           ,2023-12-11,2023-10-11,2,172.81,replenished
+BP,108793173,Amazon,JBR1332XR                       ,E171B                           ,2023-12-11,2023-10-12,2,172.81,replenished
+BP,108793167,Amazon,JBR1332XL                       ,E171B                           ,2023-12-11,,2,418.9,oos?
+BP,108793167,Amazon,JBR1332XR                       ,E171B                           ,2023-12-11,,2,418.9,oos?
+BP,108792475,Amazon,EBR618EVC                       ,W091B                           ,2023-12-11,,2,172.35,oos?
+BP,108789939,Turn14 Distribution,AR8396XL                        ,H523A                           ,2023-12-06,,5,243.63,oos?
+BP,108789939,Turn14 Distribution,AR8396XR                        ,H523A                           ,2023-12-06,,5,243.63,oos?
+BP,108790038,Amazon-Callahan,X51015L                         ,V111E                           ,2023-12-06,,5,154.48,oos?
+BP,108790038,Amazon-Callahan,X51015R                         ,V111E                           ,2023-12-06,,5,154.48,oos?
+BP,108790071,Summit Racing,S5118                           ,S441D                           ,2023-12-06,,5,181.48,oos?
+BP,108790072,Summit Racing,S5118                           ,S441D                           ,2023-12-06,,5,181.48,oos?
