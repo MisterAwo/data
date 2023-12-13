@@ -1,15 +1,21 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108792251,Amazon,B154                            ,K221B                           ,2023-12-10,,2,33.87,oos?
-BP,108792154,Amazon-Callahan,X51015L                         ,V111E                           ,2023-12-10,2023-10-11,2,155.95,replenished
-BP,108792154,Amazon-Callahan,X51015R                         ,V111E                           ,2023-12-10,,2,155.95,oos?
-BP,108793173,Amazon,JBR1332XL                       ,E171B                           ,2023-12-11,2023-10-11,2,172.81,replenished
-BP,108793173,Amazon,JBR1332XR                       ,E171B                           ,2023-12-11,2023-10-12,2,172.81,replenished
-BP,108793167,Amazon,JBR1332XL                       ,E171B                           ,2023-12-11,,2,418.9,oos?
-BP,108793167,Amazon,JBR1332XR                       ,E171B                           ,2023-12-11,,2,418.9,oos?
-BP,108792475,Amazon,EBR618EVC                       ,W091B                           ,2023-12-11,,2,172.35,oos?
-BP,108789939,Turn14 Distribution,AR8396XL                        ,H523A                           ,2023-12-06,,5,243.63,oos?
-BP,108789939,Turn14 Distribution,AR8396XR                        ,H523A                           ,2023-12-06,,5,243.63,oos?
-BP,108790038,Amazon-Callahan,X51015L                         ,V111E                           ,2023-12-06,,5,154.48,oos?
-BP,108790038,Amazon-Callahan,X51015R                         ,V111E                           ,2023-12-06,,5,154.48,oos?
-BP,108790071,Summit Racing,S5118                           ,S441D                           ,2023-12-06,,5,181.48,oos?
-BP,108790072,Summit Racing,S5118                           ,S441D                           ,2023-12-06,,5,181.48,oos?
+BP,108797321,Summit Racing,S2580                           ,S322A                           ,2023-12-12,2023-10-14,1,133.06,replenished
+BP,108797326,Summit Racing,S2580                           ,S322A                           ,2023-12-12,2023-10-14,1,133.06,replenished
+BP,108797448,Jegs,S5284                           ,T051F                           ,2023-12-12,2023-10-13,1,823.86,replenished
+BP,108797685,Summit Racing,S15092                          ,V471B                           ,2023-12-12,2023-10-13,1,238.32,replenished
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,2023-10-13,1,188.95,replenished
+BP,108795943,Jegs,S3336                           ,T071F                           ,2023-12-12,,2,245.13,oos?
+BP,108795647,Walmart,MD729                           ,W402E                           ,2023-12-11,,2,64.68,oos?
+BP,108795091,Jegs,BH00043                         ,B254A                           ,2023-12-11,2023-10-14,3,63.34,replenished
+BP,108795367,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,2023-10-14,4,196.5,replenished
+BP,108795365,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,4,65.13,oos?
+BP,108795366,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,4,65.13,oos?
+BP,108792087,Jegs,BH00172                         ,E262A                           ,2023-12-11,,4,69.64,oos?
+BP,108792324,Jegs,B449                            ,K572F                           ,2023-12-11,,4,15.67,oos?
+BP,108792495,CarID,S3336                           ,T071F                           ,2023-12-11,2023-10-13,4,261.56,replenished
+BP,108792717,Jegs,S4536                           ,S262B                           ,2023-12-11,2023-10-13,4,123.81,replenished
+BP,108793283,Jegs,L4763A                          ,R304H                           ,2023-12-11,,4,106.24,oos?
+BP,108793284,Parts Geek,Z23-1892                        ,M293D                           ,2023-12-11,,4,395.33,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,42,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,42,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,42,2102.48,oos?
