@@ -1,14 +1,10 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108799542,Carparts.com,L2839                           ,T143F                           ,2023-12-14,,1,232.69,oos?
+BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-14,,1,29.46,oos?
 BP,108798639,Jegs,BH00075                         ,B255E                           ,2023-12-13,,2,97.69,oos?
 BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,2023-10-14,3,188.95,replenished
 BP,108795365,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,6,65.13,oos?
 BP,108795366,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,6,65.13,oos?
 BP,108795367,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,6,196.5,oos?
-BP,108798671,Turn14 Distribution,S4390                           ,S303F                           ,2023-12-14,,9,269.19,oos?
 BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,44,2102.48,oos?
 BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,44,2102.48,oos?
 BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,44,2102.48,oos?
-BP,108798667,Turn14 Distribution,S4390                           ,S303F                           ,2023-12-13,,168,96.98,oos?
-BP,108798668,Turn14 Distribution,S4390                           ,S303F                           ,2023-12-13,,168,96.98,oos?
-BP,108798669,Turn14 Distribution,S4390                           ,S303F                           ,2023-12-13,,168,96.98,oos?
