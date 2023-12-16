@@ -1,10 +1,11 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-14,,1,29.46,oos?
-BP,108798639,Jegs,BH00075                         ,B255E                           ,2023-12-13,,2,97.69,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,3,188.95,oos?
-BP,108795366,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,6,65.13,oos?
-BP,108795367,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,6,196.5,oos?
-BP,108795365,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,6,65.13,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,44,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,44,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,44,2102.48,oos?
+BP,108801519,Amazon,B154                            ,K221B                           ,2023-12-15,,1,20.16,oos?
+BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-15,,2,29.46,oos?
+BP,108798639,Jegs,BH00075                         ,B255E                           ,2023-12-13,,3,97.69,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,4,188.95,oos?
+BP,108795365,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,7,65.13,oos?
+BP,108795366,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,7,65.13,oos?
+BP,108795367,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,7,196.5,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,45,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,45,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,45,2102.48,oos?
