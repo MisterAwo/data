@@ -1,18 +1,15 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108803852,Jegs,S5118A                          ,S323B                           ,2023-12-17,,1,359.87,oos?
-BP,108803885,Parts Geek,S4196                           ,S263B                           ,2023-12-17,,1,92.02,oos?
-BP,108804066,Jegs,S2976A                          ,T051E                           ,2023-12-17,,1,573.59,oos?
-BP,108803231,Turn 5 Inc,AR85198                         ,F153B                           ,2023-12-16,,2,254.74,oos?
-BP,108803231,Turn 5 Inc,AR85199                         ,F153A                           ,2023-12-16,,2,254.74,oos?
-BP,108803362,AutoZone,Z23-1828                        ,M293C                           ,2023-12-17,,2,219.69,oos?
-BP,108802802,Jegs,S4816                           ,T251E                           ,2023-12-16,,2,414.24,oos?
-BP,108801519,Amazon,B154                            ,K221B                           ,2023-12-15,,3,20.16,oos?
-BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-15,,4,29.46,oos?
-BP,108798639,Jegs,BH00075                         ,B255E                           ,2023-12-13,,5,97.69,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,6,188.95,oos?
-BP,108795366,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,9,65.13,oos?
-BP,108795367,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,9,196.5,oos?
-BP,108795365,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,9,65.13,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,47,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,47,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,2023-10-19,47,2102.48,replenished
+BP,108806109,Jegs,S4606A                          ,S252F                           ,2023-12-18,2023-10-19,1,284.51,replenished
+BP,108806193,AutoZone,Z26-1004                        ,M223B                           ,2023-12-19,,1,252.01,oos?
+BP,108803231,Turn 5 Inc,AR85198                         ,F153B                           ,2023-12-16,2023-10-20,3,254.74,replenished
+BP,108803231,Turn 5 Inc,AR85199                         ,F153A                           ,2023-12-16,,3,254.74,oos?
+BP,108803362,AutoZone,Z23-1828                        ,M293C                           ,2023-12-17,,3,219.69,oos?
+BP,108805580,Turn14 Distribution,S4390                           ,S303F                           ,2023-12-18,,4,96.98,oos?
+BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-15,,5,29.46,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,7,188.95,oos?
+BP,108795365,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,10,65.13,oos?
+BP,108795366,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,10,65.13,oos?
+BP,108795367,Turn 5 Inc,BH00175                         ,E262D                           ,2023-12-11,,10,196.5,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,48,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,48,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,48,2102.48,oos?
