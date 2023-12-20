@@ -1,7 +1,8 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-15,2023-10-19,6,29.46,replenished
+BP,108806954,Jegs,S4378                           ,S251E                           ,2023-12-19,,1,255.41,oos?
+BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-15,,6,29.46,oos?
 BP,108798328,ECS Tuning LLC,EBR822EVC                       ,W032F                           ,2023-12-19,,7,396.54,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,2023-10-20,8,188.95,replenished
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,8,188.95,oos?
 BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,49,2102.48,oos?
 BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,49,2102.48,oos?
 BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,49,2102.48,oos?
