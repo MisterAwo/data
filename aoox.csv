@@ -1,9 +1,20 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
+BP,108808136,Summit Racing,B581                            ,K233C                           ,2023-12-20,,1,318.53,oos?
+BP,108808349,Jegs,S2614C                          ,T071C                           ,2023-12-20,,1,136.88,oos?
+BP,108808391,Summit Racing,L5467                           ,S114H                           ,2023-12-20,,1,214.46,oos?
+BP,108808436,Carparts.com,JBR582XPR                       ,C492D                           ,2023-12-20,,1,114.91,oos?
+BP,108807669,Summit Racing,B228                            ,K253C                           ,2023-12-20,,2,40.23,oos?
+BP,108807670,Summit Racing,AD8200P                         ,G583B                           ,2023-12-20,,2,529.16,oos?
+BP,108807670,Summit Racing,B228                            ,K253C                           ,2023-12-20,,2,529.16,oos?
+BP,108807671,Summit Racing,B228                            ,K253C                           ,2023-12-20,,2,67.05,oos?
+BP,108807673,Summit Racing,AD8200P                         ,G583B                           ,2023-12-20,,2,486.84,oos?
+BP,108807673,Summit Racing,AD8200P                         ,G583B                           ,2023-12-20,,2,486.84,oos?
+BP,108807673,Summit Racing,B228                            ,K253C                           ,2023-12-20,,2,486.84,oos?
+BP,108807674,Summit Racing,AD8329P                         ,G611C                           ,2023-12-20,,2,290.64,oos?
+BP,108807674,Summit Racing,B267                            ,K263F                           ,2023-12-20,,2,290.64,oos?
+BP,108806954,Jegs,S4378                           ,S251E                           ,2023-12-19,,2,255.41,oos?
 BP,108807271,Jegs,S6992                           ,T061C                           ,2023-12-20,,2,214.48,oos?
 BP,108807289,Jegs,BH00115                         ,B257E                           ,2023-12-20,,2,99.75,oos?
-BP,108806954,Jegs,S4378                           ,S251E                           ,2023-12-19,,2,255.41,oos?
-BP,108800294,CarID,Z23-1828                        ,M293C                           ,2023-12-15,,7,29.46,oos?
-BP,108798328,ECS Tuning LLC,EBR822EVC                       ,W032F                           ,2023-12-19,,8,396.54,oos?
 BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,9,188.95,oos?
 BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,50,2102.48,oos?
 BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,50,2102.48,oos?
