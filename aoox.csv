@@ -1,8 +1,7 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108810263,Jegs,AR8609XL                        ,C091A                           ,2023-12-21,,1,167.21,oos?
-BP,108810263,Jegs,AR8609XR                        ,C091A                           ,2023-12-21,,1,167.21,oos?
-BP,108810291,Carparts.com,Z23-1828                        ,M293C                           ,2023-12-22,,1,221.23,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,10,188.95,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,51,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,51,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,51,2102.48,oos?
+BP,108810676,Buy Brakes,L6993                           ,T143J                           ,2023-12-22,,1,194.8,oos?
+BP,108810769,Jegs,PSA-1124                        ,W473D                           ,2023-12-22,,1,128.72,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,11,188.95,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,52,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,52,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,52,2102.48,oos?
