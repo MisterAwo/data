@@ -1,6 +1,6 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108816324,Turn14 Distribution,S4536                           ,S262B                           ,2023-12-27,,1,120.02,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,16,188.95,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,57,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,57,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,57,2102.48,oos?
+BP,108818549,Turn 5 Inc,PST-627A                        ,W482J                           ,2023-12-28,,1,71.87,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,17,188.95,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,58,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,58,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,2023-10-29,58,2102.48,replenished
