@@ -1,16 +1,5 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108822889,Carparts.com,L1734                           ,S014E                           ,2024-01-02,,2,75.28,oos?
-BP,108823262,Carparts.com,S1460                           ,S342F                           ,2024-01-02,,2,284.59,oos?
-BP,108822169,Jegs,S5400A                          ,S463A                           ,2023-12-31,,3,226.94,oos?
-BP,108821912,Jegs,S4816                           ,T251E                           ,2023-12-31,,3,457.65,oos?
-BP,108820930,Carparts.com,L2690A                          ,S031F                           ,2023-12-30,,4,97.34,oos?
-BP,108820731,Carparts.com,L6079                           ,S163F                           ,2023-12-30,,4,89.0,oos?
-BP,108819938,Jegs,L6993                           ,T143J                           ,2023-12-29,,5,293.71,oos?
-BP,108820050,Jegs,S5118A                          ,S323B                           ,2023-12-29,,5,179.1,oos?
-BP,108820201,Carparts.com,L6079                           ,S163F                           ,2023-12-29,,5,89.0,oos?
-BP,108818602,Jegs,AR8653XL                        ,F082B                           ,2023-12-29,,6,167.17,oos?
-BP,108818602,Jegs,AR8653XR                        ,F082B                           ,2023-12-29,,6,167.17,oos?
-BP,108818549,Turn 5 Inc,PST-627A                        ,W482J                           ,2023-12-28,,6,71.87,oos?
+BP,108824743,AutoZone,S2712                           ,T031B                           ,2024-01-02,,1,324.49,oos?
 BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,22,188.95,oos?
 BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,63,2102.48,oos?
 BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,63,2102.48,oos?
