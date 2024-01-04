@@ -1,20 +1,18 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108824734,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,1,7.35,oos?
-BP,108824743,AutoZone,S2712                           ,T031B                           ,2024-01-02,,1,324.49,oos?
-BP,108825135,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,1,7.35,oos?
-BP,108824426,AutoZone,AR84103XL                       ,V263C                           ,2024-01-02,,1,267.7,oos?
-BP,108824426,AutoZone,AR84103XR                       ,V263C                           ,2024-01-02,,1,267.7,oos?
-BP,108824426,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,1,267.7,oos?
-BP,108823300,Carparts.com,SW-1205                         ,D263L                           ,2024-01-02,,2,460.54,oos?
-BP,108823522,Amazon,SW-1205                         ,D263L                           ,2024-01-02,,2,539.61,oos?
-BP,108823608,Amazon,SW-1205                         ,D263L                           ,2024-01-02,,2,321.06,oos?
-BP,108822811,Amazon,SW-1205                         ,D263L                           ,2024-01-02,,2,321.06,oos?
-BP,108822424,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,3,184.89,oos?
-BP,108822098,Jegs,SW-1205                         ,D263L                           ,2023-12-31,,3,17.08,oos?
-BP,108822135,Amazon,SW-1205                         ,D263L                           ,2023-12-31,,3,321.06,oos?
-BP,108821232,AutoZone,SW-1205                         ,D263L                           ,2023-12-30,,4,7.35,oos?
-BP,108821558,Amazon,SW-1205                         ,D263L                           ,2023-12-31,,4,321.06,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,22,188.95,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,2023-11-03,63,2102.48,replenished
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,2023-11-03,63,2102.48,replenished
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,63,2102.48,oos?
+BP,108825514,AutoZone,SW-1205                         ,D263L                           ,2024-01-03,,1,7.35,oos?
+BP,108825587,AutoZone,SW-1205                         ,D263L                           ,2024-01-03,,1,14.7,oos?
+BP,108825846,Amazon,SW-1205                         ,D263L                           ,2024-01-03,,1,321.06,oos?
+BP,108825848,Amazon,SW-1205                         ,D263L                           ,2024-01-03,,1,214.6,oos?
+BP,108825954,Amazon,SW-1205                         ,D263L                           ,2024-01-03,,1,321.06,oos?
+BP,108825135,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,2,7.35,oos?
+BP,108824426,AutoZone,AR84103XL                       ,V263C                           ,2024-01-02,,2,267.7,oos?
+BP,108824426,AutoZone,AR84103XR                       ,V263C                           ,2024-01-02,,2,267.7,oos?
+BP,108824426,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,2,267.7,oos?
+BP,108824734,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,2,7.35,oos?
+BP,108824743,AutoZone,S2712                           ,T031B                           ,2024-01-02,,2,324.49,oos?
+BP,108822424,AutoZone,SW-1205                         ,D263L                           ,2024-01-02,,4,184.89,oos?
+BP,108821232,AutoZone,SW-1205                         ,D263L                           ,2023-12-30,,5,7.35,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,23,188.95,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,64,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,64,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,64,2102.48,oos?
