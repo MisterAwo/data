@@ -1,8 +1,8 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108831027,Parts Geek,B582                            ,K233B                           ,2024-01-07,,2,333.94,oos?
-BP,108828354,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-05,,4,28.06,oos?
-BP,108827801,Turn 5 Inc,L5472                           ,R341A                           ,2024-01-04,2023-11-10,5,305.03,replenished
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,28,188.95,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,2023-11-10,69,2102.48,replenished
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,2023-11-10,69,2102.48,replenished
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,69,2102.48,oos?
+BP,108833866,Jegs,S4378                           ,S251E                           ,2024-01-09,2023-11-11,1,270.29,replenished
+BP,108828354,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-05,,5,28.06,oos?
+BP,108827801,Turn 5 Inc,L5472                           ,R341A                           ,2024-01-04,,6,305.03,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,29,188.95,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,70,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,70,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,70,2102.48,oos?
