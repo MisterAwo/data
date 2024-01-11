@@ -1,8 +1,10 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108833866,Jegs,S4378                           ,S251E                           ,2024-01-09,2023-11-11,1,270.29,replenished
-BP,108828354,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-05,,5,28.06,oos?
-BP,108827801,Turn 5 Inc,L5472                           ,R341A                           ,2024-01-04,,6,305.03,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,29,188.95,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,70,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,70,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,70,2102.48,oos?
+BP,108834473,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-10,,1,28.06,oos?
+BP,108834544,Jegs,S7049                           ,T331F                           ,2024-01-10,,1,181.68,oos?
+BP,108835161,Jegs,S2614C                          ,T071C                           ,2024-01-10,,1,239.64,oos?
+BP,108834275,Summit Racing,Z36-2233                        ,P195B                           ,2024-01-10,,2,2086.16,oos?
+BP,108828354,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-05,,6,28.06,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,30,188.95,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,2023-11-14,71,2102.48,replenished
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,2023-11-14,71,2102.48,replenished
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,71,2102.48,oos?
