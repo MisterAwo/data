@@ -1,15 +1,15 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108840144,Premier Performance Inc. ,B582                            ,K233B                           ,2024-01-16,,2,467.56,oos?
-BP,108839763,Jegs,B228                            ,K253C                           ,2024-01-16,,2,78.35,oos?
-BP,108838931,Jegs,BH00043                         ,B254A                           ,2024-01-16,,3,63.34,oos?
-BP,108838951,Summit Racing,B582                            ,K233B                           ,2024-01-16,,3,407.93,oos?
-BP,108837842,Jegs,S5118A                          ,S323B                           ,2024-01-14,2023-11-19,5,571.25,replenished
-BP,108837521,Jegs,S3318                           ,T491G                           ,2024-01-14,,5,247.15,oos?
-BP,108836497,Jegs,Z36-2233                        ,P195B                           ,2024-01-11,,7,246.4,oos?
-BP,108834473,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-10,,8,28.06,oos?
-BP,108839969,Summit Racing,S5468                           ,S174A                           ,2024-01-16,,9,231.53,oos?
-BP,108828354,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-05,,13,28.06,oos?
-BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,37,188.95,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,78,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,78,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,78,2102.48,oos?
+BP,108842072,Summit Racing,S5468                           ,S174A                           ,2024-01-18,,1,231.53,oos?
+BP,108842357,Turn14 Distribution,PST-1124                        ,W482B                           ,2024-01-18,,1,53.03,oos?
+BP,108839763,Jegs,B228                            ,K253C                           ,2024-01-16,2023-11-19,3,78.35,replenished
+BP,108840144,Premier Performance Inc. ,B582                            ,K233B                           ,2024-01-16,,3,467.56,oos?
+BP,108838931,Jegs,BH00043                         ,B254A                           ,2024-01-16,,4,63.34,oos?
+BP,108837521,Jegs,S3318                           ,T491G                           ,2024-01-14,,6,247.15,oos?
+BP,108837842,Jegs,S5118A                          ,S323B                           ,2024-01-14,,6,571.25,oos?
+BP,108836497,Jegs,Z36-2233                        ,P195B                           ,2024-01-11,,8,246.4,oos?
+BP,108834473,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-10,,9,28.06,oos?
+BP,108828354,Turn 5 Inc,Z36-2233                        ,P195B                           ,2024-01-05,,14,28.06,oos?
+BP,108797198,Carparts.com,S4196                           ,S263B                           ,2023-12-12,,38,188.95,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,79,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,79,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,79,2102.48,oos?
