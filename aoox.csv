@@ -1,12 +1,18 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108849697,Turn14 Distribution,Z23-915C                        ,M783D                           ,2024-01-25,,4,681.91,oos?
-BP,108849892,Turn14 Distribution,L6384                           ,S122D                           ,2024-01-25,,4,716.52,oos?
-BP,108847812,Turn14 Distribution,AK038                           ,B055D                           ,2024-01-23,,6,128.59,oos?
-BP,108843888,Turn14 Distribution,S5522                           ,S193E                           ,2024-01-20,,10,187.06,oos?
-BP,108843460,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,10,186.2,oos?
-BP,108843462,Summit Racing,S2576                           ,S321F                           ,2024-01-19,2023-11-26,10,186.2,replenished
-BP,108843459,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,10,186.2,oos?
-BP,108838931,Jegs,BH00043                         ,B254A                           ,2024-01-16,,14,63.34,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,89,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,89,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,89,2102.48,oos?
+BP,108854038,Jegs,S4746                           ,T251F                           ,2024-01-29,,1,167.44,oos?
+BP,108854136,Jegs,S4702                           ,S243C                           ,2024-01-29,,1,740.33,oos?
+BP,108853609,Jegs,S4792                           ,S221A                           ,2024-01-29,,2,149.06,oos?
+BP,108853062,Jegs,S5118A                          ,S323B                           ,2024-01-29,,2,390.48,oos?
+BP,108851520,Premier Performance Inc. ,BH00026                         ,B252K                           ,2024-01-26,,4,87.33,oos?
+BP,108851042,Turn14 Distribution,L2601                           ,S024L                           ,2024-01-26,,4,59.51,oos?
+BP,108849892,Turn14 Distribution,L6384                           ,S122D                           ,2024-01-25,,5,716.52,oos?
+BP,108849697,Turn14 Distribution,Z23-915C                        ,M783D                           ,2024-01-25,,5,681.91,oos?
+BP,108847812,Turn14 Distribution,AK038                           ,B055D                           ,2024-01-23,,7,128.59,oos?
+BP,108843459,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,11,186.2,oos?
+BP,108843460,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,11,186.2,oos?
+BP,108843462,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,11,186.2,oos?
+BP,108843888,Turn14 Distribution,S5522                           ,S193E                           ,2024-01-20,,11,187.06,oos?
+BP,108838931,Jegs,BH00043                         ,B254A                           ,2024-01-16,,15,63.34,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,90,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,90,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,90,2102.48,oos?
