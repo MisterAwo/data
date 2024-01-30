@@ -1,8 +1,8 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
 BP,108854038,Jegs,S4746                           ,T251F                           ,2024-01-29,,1,167.44,oos?
 BP,108854136,Jegs,S4702                           ,S243C                           ,2024-01-29,,1,740.33,oos?
-BP,108853609,Jegs,S4792                           ,S221A                           ,2024-01-29,,2,149.06,oos?
 BP,108853062,Jegs,S5118A                          ,S323B                           ,2024-01-29,,2,390.48,oos?
+BP,108853609,Jegs,S4792                           ,S221A                           ,2024-01-29,,2,149.06,oos?
 BP,108851520,Premier Performance Inc. ,BH00026                         ,B252K                           ,2024-01-26,,4,87.33,oos?
 BP,108851042,Turn14 Distribution,L2601                           ,S024L                           ,2024-01-26,,4,59.51,oos?
 BP,108849892,Turn14 Distribution,L6384                           ,S122D                           ,2024-01-25,,5,716.52,oos?
