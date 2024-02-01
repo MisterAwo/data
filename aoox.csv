@@ -1,15 +1,17 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
 BP,108857698,Turn14 Distribution,B55                             ,K253A                           ,2024-01-31,,1,129.49,oos?
+BP,108858222,Summit Racing,S3318                           ,T491G                           ,2024-01-31,,1,688.79,oos?
+BP,108858138,Jegs,S3336                           ,T071F                           ,2024-01-31,,1,466.56,oos?
 BP,108856675,Turn14 Distribution,S3318                           ,T491G                           ,2024-01-31,,2,387.35,oos?
 BP,108856675,Turn14 Distribution,S3320A                          ,S401D                           ,2024-01-31,,2,387.35,oos?
 BP,108854814,Turn14 Distribution,BH00173                         ,E262B                           ,2024-01-29,,3,45.78,oos?
 BP,108851042,Turn14 Distribution,L2601                           ,S024L                           ,2024-01-26,,6,59.51,oos?
 BP,108849892,Turn14 Distribution,L6384                           ,S122D                           ,2024-01-25,,7,716.52,oos?
 BP,108847812,Turn14 Distribution,AK038                           ,B055D                           ,2024-01-23,,9,128.59,oos?
-BP,108843888,Turn14 Distribution,S5522                           ,S193E                           ,2024-01-20,,13,187.06,oos?
-BP,108843462,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,13,186.2,oos?
 BP,108843459,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,13,186.2,oos?
 BP,108843460,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,13,186.2,oos?
+BP,108843462,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,13,186.2,oos?
+BP,108843888,Turn14 Distribution,S5522                           ,S193E                           ,2024-01-20,,13,187.06,oos?
 BP,108838931,Jegs,BH00043                         ,B254A                           ,2024-01-16,,17,63.34,oos?
 BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,92,2102.48,oos?
 BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,92,2102.48,oos?
