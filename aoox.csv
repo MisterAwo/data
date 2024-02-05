@@ -1,16 +1,19 @@
 STORE,REF,CUSTOMER,ITEM,LOCATION,SHORT DATE,SHORT REPLEN DATE,ORDER AGE IN DAYS,VALUE,item status
-BP,108859649,Amazon,L2993                           ,S044B                           ,2024-02-01,,1,102.31,oos?
-BP,108857698,Turn14 Distribution,B55                             ,K253A                           ,2024-01-31,,2,0.0,oos?
-BP,108856675,Turn14 Distribution,S3318                           ,T491G                           ,2024-01-31,,3,0.0,oos?
-BP,108856675,Turn14 Distribution,S3320A                          ,S401D                           ,2024-01-31,,3,0.0,oos?
-BP,108854814,Turn14 Distribution,BH00173                         ,E262B                           ,2024-01-29,,4,0.0,oos?
-BP,108851042,Turn14 Distribution,L2601                           ,S024L                           ,2024-01-26,,7,0.0,oos?
-BP,108847812,Turn14 Distribution,AK038                           ,B055D                           ,2024-01-23,,10,128.59,oos?
-BP,108843888,Turn14 Distribution,S5522                           ,S193E                           ,2024-01-20,,14,187.06,oos?
-BP,108843459,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,14,186.2,oos?
-BP,108843460,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,14,186.2,oos?
-BP,108843462,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,14,186.2,oos?
-BP,108838931,Jegs,BH00043                         ,B254A                           ,2024-01-16,,18,63.34,oos?
-BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,93,2102.48,oos?
-BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,93,2102.48,oos?
-BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,93,2102.48,oos?
+BP,108862156,AutoZone,JBR1584                         ,G571F                           ,2024-02-05,,2,155.57,oos?
+BP,108862802,Jegs,S6650                           ,S183A                           ,2024-02-05,,2,232.49,oos?
+BP,108860958,Jegs,S4816                           ,T251E                           ,2024-02-02,,3,203.2,oos?
+BP,108861381,Turn14 Distribution,BH00160                         ,B259A                           ,2024-02-02,,3,201.04,oos?
+BP,108857698,Turn14 Distribution,B55                             ,K253A                           ,2024-01-31,,5,0.0,oos?
+BP,108856675,Turn14 Distribution,S3318                           ,T491G                           ,2024-01-31,,6,0.0,oos?
+BP,108856675,Turn14 Distribution,S3320A                          ,S401D                           ,2024-01-31,2023-12-11,6,0.0,replenished
+BP,108854814,Turn14 Distribution,BH00173                         ,E262B                           ,2024-01-29,,7,0.0,oos?
+BP,108851042,Turn14 Distribution,L2601                           ,S024L                           ,2024-01-26,,10,0.0,oos?
+BP,108847812,Turn14 Distribution,AK038                           ,B055D                           ,2024-01-23,,13,128.59,oos?
+BP,108843459,Summit Racing,S2576                           ,S321F                           ,2024-01-19,2023-12-11,17,186.2,replenished
+BP,108843888,Turn14 Distribution,S5522                           ,S193E                           ,2024-01-20,,17,187.06,oos?
+BP,108843460,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,17,186.2,oos?
+BP,108843462,Summit Racing,S2576                           ,S321F                           ,2024-01-19,,17,186.2,oos?
+BP,108838931,Jegs,BH00043                         ,B254A                           ,2024-01-16,,21,63.34,oos?
+BP,108790092,Meyer Distributing,AR86005XPR                      ,V262B                           ,2023-12-11,,96,2102.48,oos?
+BP,108790092,Meyer Distributing,S4796                           ,T481C                           ,2023-12-11,,96,2102.48,oos?
+BP,108790092,Meyer Distributing,S5302                           ,T201A                           ,2023-12-11,,96,2102.48,oos?
